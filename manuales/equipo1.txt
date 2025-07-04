@@ -1,0 +1,9 @@
+Manual de Usuario - Equipo 1
+Encendido:
+1. Conecte el cable de alimentación.
+2. Presione el botón de encendido.
+
+Mantenimiento:
+- Limpiar con paño seco.
+- Revisar calibración cada 6 meses.
+...
