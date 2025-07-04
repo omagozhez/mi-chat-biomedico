@@ -41,7 +41,7 @@ Al final de cada conversación, añade:
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": `Bearer ${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}`
+      "Authorization": `Bearer ${OPENAI_API_KEY}`
     },
     body: JSON.stringify({
       model: "gpt-3.5-turbo",
