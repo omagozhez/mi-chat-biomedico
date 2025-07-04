@@ -1,0 +1,3277 @@
+﻿Volumat MC Agilia
+
+Bomba de Infusión 
+Volumétrica
+Manual de usuario
+
+
+
+1. INTRODUCCIÓN.......................................................................................................................................... 4
+Modos de programación ............................................................................................................................... 4
+Modos de infusión......................................................................................................................................... 4
+Uso ............................................................................................................................................................... 5
+Precauciones a tener en cuenta ................................................................................................................... 5
+
+2. DESCRIPCIÓN............................................................................................................................................. 6
+
+3. INSTALACIÓN ............................................................................................................................................. 8
+
+4. PUESTA EN MARCHA .............................................................................................................................. 13
+Modos Sin nombre de droga y Flujo ml/h ................................................................................................... 13
+Otros modos de infusión en Flujo ml/h ....................................................................................................... 14
+Modo Sin nombre de droga y Tasa de dosis .............................................................................................. 23
+Dosis de carga............................................................................................................................................ 25
+Otros modos de infusión en Tasa de dosis ................................................................................................ 27
+Modo Etiqueta de droga ............................................................................................................................. 28
+Modo Vigilant Drug’Lib................................................................................................................................ 29
+Funciones especiales ................................................................................................................................. 30
+Operaciones generales............................................................................................................................... 33
+Historial....................................................................................................................................................... 35
+
+5. PANTALLA Y SÍMBOLOS......................................................................................................................... 40
+
+6. ALARMAS Y CARACTERÍSTICAS DE SEGURIDAD .............................................................................. 43
+
+7. MENÚ ......................................................................................................................................................... 48
+Menú permanente....................................................................................................................................... 48
+Menú seleccionado en modo Opciones...................................................................................................... 49
+
+8. OPCIONES................................................................................................................................................. 51
+
+9. PRUEBA DE USUARIO............................................................................................................................. 56
+
+10. CARACTERÍSTICAS ................................................................................................................................. 57
+Rangos de flujo........................................................................................................................................... 57
+Volumen a infundir (VAI)............................................................................................................................. 57
+Flujo KVO (Mantener Vena Abierta) ........................................................................................................... 57
+Rango de dosis .......................................................................................................................................... 58
+Tiempo de infusión ..................................................................................................................................... 58
+Biblioteca de drogas ................................................................................................................................... 58
+Detección de aire........................................................................................................................................ 58
+Intervalo de cambio de la línea de infusión ................................................................................................ 58
+Precisión ..................................................................................................................................................... 59
+Pausa programable .................................................................................................................................... 59
+Gestión de la presión ................................................................................................................................. 59
+Tiempo de respuesta de la alarma de oclusión .......................................................................................... 59
+Volumen de Bolus al liberar la presion de oclusión .................................................................................... 59
+Reglas de cálculo ....................................................................................................................................... 60
+Unidades y reglas de conversión................................................................................................................ 61
+Contenido
+2 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+11. CARACTERÍSTICAS TÉCNICAS.............................................................................................................. 62
+Alimentación ............................................................................................................................................... 62
+Batería ........................................................................................................................................................ 62
+Puerto de comunicaciones ......................................................................................................................... 62
+Comunicación infrarroja.............................................................................................................................. 62
+Normativas.................................................................................................................................................. 62
+Dimensiones - Peso.................................................................................................................................... 63
+Curvas de trompeta .................................................................................................................................... 63
+
+12. CONSEJOS Y DECLARACIÓN DEL FABRICANTE SOBRE EMC ......................................................... 65
+Emisiones electromagnéticas - Tabla 201.................................................................................................. 65
+Inmunidad electromagnética - Tabla 202 ................................................................................................... 66
+Inmunidad electromagnética - Tabla 204 ................................................................................................... 67
+Distancias de separación recomendadas entre equipos de comunicación RF portátiles o móviles 
+y la bomba Volumat MC Agilia - Tabla 206................................................................................................ 68
+
+13. LIMPIEZA, DESINFECCIÓN Y CONDICIONES DE USO ......................................................................... 69
+Limpieza y desinfección.............................................................................................................................. 69
+Almacenamiento ......................................................................................................................................... 69
+Uso de la batería interna ............................................................................................................................ 70
+Recomendaciones ...................................................................................................................................... 71
+Recomendaciones especiales relacionadas con el uso de las líneas Volumat.......................................... 72
+
+14. SERVICIOS ................................................................................................................................................ 73
+Condiciones de la garantía ......................................................................................................................... 73
+Control de calidad....................................................................................................................................... 73
+Mantenimiento preventivo........................................................................................................................... 73
+Servicio ....................................................................................................................................................... 73
+Bastidores de datos, accesorios y herramientas de mantenimiento .......................................................... 74
+Válido para la versión de software 2.3x (x equivale a d o a una letra superior a d).
+
+3481-4_nu_volumat_MC_agilia_ES 3
+
+
+
+1. Introducción
+
+La bomba Volumat MC Agilia es la bomba volumétrica de la gama Agilia e incorpora un amplio abanico de 
+opciones avanzadas como la Tasa de dosis, el modo Rampa, el modo Secuencial, etc. Es muy intuitiva y fácil 
+de manejar, como todos dispositivos de la gama Agilia. Gracias a sus diversos modos de programación, modos 
+de infusión, posibilidades de personalización y a su amplia gama de líneas de infusión, la bomba Volumat MC 
+Agilia puede usarse en cualquier unidad del centro médico: salas de medicina general, pediatría, cuidados 
+intensivos, oncología, etc.
+
+Modos de programación
+La bomba Volumat MC Agilia puede programarse de tres modos diferentes.
+
+Modo Descripción
+Sin nombre de Deben definirse todos los parámetros de infusión. No se selecciona el nombre de droga.
+droga Funciona con diferentes modos de infusión (consulte la tabla siguiente).
+Etiqueta de droga El nombre de la droga se selecciona en la lista predefinida de drogas durante la 
+
+programación de la infusión y se visualiza en la pantalla durante la realización de la 
+misma.
+
+Vigilant® Drug’Lib Se definen los parámetros de droga en una biblioteca de drogas: nombre de droga, 
+valores y unidades predeterminados del flujo, modos de infusión autorizados, bolus 
+autorizados y parámetros del bolus, valores máximos de flujo y de límites de aviso, etc.
+Con el software Vigilant® Drug'Lib, el usuario puede personalizar y descargar la 
+biblioteca de drogas al dispositivo.
+
+Nota: Con los modos "Etiqueta de droga" y Vigilant® Drug'Lib, se puede seleccionar 
+"Droga X (ml/h)" o "Droga X (dosis)" para definir todos los parámetros de una droga (que no está definido en la 
+lista de drogas o en la biblioteca de drogas) sin cambiar el modo de programación.
+
+Modos de infusión
+Después de haber seleccionado el tipo de funcionamiento, en modo Flujo en ml/h o en modo Tasa de dosis, 
+será posible escoger entre los siguientes modos de infusión.
+
+Tasa 
+ml/h Modo de infusión Descripción
+
+de dosis
+X X Volumen/Tiempo/Flujo La infusión se define especificando un volumen y un 
+
+tiempo o un flujo.
+X X Volumen/Flujo La infusión se define especificando un volumen y un flujo. 
+
+En este caso, el tiempo se calcula automáticamente.
+X X Volumen/Tiempo La infusión se define especificando un volumen y un 
+
+tiempo. En este caso, el flujo se calcula automáticamente.
+X X Tiempo/Flujo La infusión se define especificando un tiempo y un flujo. En 
+
+este caso, el volumen se calcula automáticamente.
+X X Sólo flujo La infusión se define especificando sólo un flujo. Este 
+
+modo está disponible sólo si se usa el sensor opcional de 
+gotas fijado a la cámara de goteo y conectado a la bomba.
+
+X Rampa La infusión se define especificando un volumen total, un 
+tiempo de infusión total, un tiempo de rampa ascendente y 
+descendente, y un flujo estable. Este modo permite 
+aumentar gradualmente el flujo mediante fases 
+intermedias para alcanzar un flujo estable.
+
+X Secuencial La infusión se define por secuencias especificando un 
+volumen y un flujo de infusión para cada secuencia.
+4 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Tasa 
+ml/h Modo de infusión Descripción
+
+de dosis
+X Secundario Infusión que permite suministrar el contenido de una bolsa 
+
+o botella secundaria por medio de una línea secundaria 
+conectada a la línea principal denominada línea primaria.
+
+X X Bolus programado El bolus se define mediante su volumen (o dosis) y flujo.
+
+X Dosis de carga La dosis inicial se define especificando un tiempo y se 
+suministra antes de una dosis.
+
+X Gotas por minuto La infusión se define mediante un flujo expresado en gotas 
+por minuto.
+
+Uso
+ Volumat MC Agilia es una bomba de infusión diseñada para administrar por vía intravenosa (IV) fármacos,
+soluciones, líquidos, nutrición parenteral y transfusiones (requiere una línea especial). Debe ser usada solo por
+personal profesional hospitalario cualificado.
+
+Precauciones a tener en cuenta
+ El símbolo  que aparece en el dispositivo indica que es necesario leer el manual de usuario en su
+totalidad antes de utilizar el dispositivo. El uso de los modos de infusión por personas sin formación en el
+dispositivo puede causar errores en la administración de las drogas.
+ La bomba Volumat MC Agilia ha sido sometida a ensayos de acuerdo con las normativas aplicables de
+compatibilidad electromagnética para dispositivos médicos. Su inmunidad posibilita un funcionamiento seguro.
+La limitación de las radiaciones emitidas evita interferencias no deseadas con otros dispositivos como EEG,
+ECG, etc. 
+Si es necesario colocar la bomba Volumat MC Agilia cerca de dispositivos quirúrgicos de alta frecuencia,
+rayos X, teléfonos móviles o puntos wifi, es esencial mantener la distancia mínima entre equipos (consulte la
+página 67 - Inmunidad electromagnética).
+ El dispositivo no debe usarse cerca de agentes anestésicos inflamables debido al riesgo de explosión.
+Deberá usarse siempre fuera de áreas de riesgo.
+ Uso en una unidad de imágenes por resonancia magnética: la bomba puede funcionar sin problemas gracias
+al dispositivo MRI Guard Agilia únicamente para evitar interferencias electromagnéticas. Véanse las
+instrucciones de uso específicas.
+ El funcionamiento del dispositivo puede verse alterado por la presión o variaciones de presión, choques
+mecánicos, generadores de calor, etc. Si desea usar el dispositivo en condiciones específicas, por favor
+póngase en contacto con nuestro departamento de posventa. Para que funcione correctamente, la bomba debe
+usarse en una posición horizontal y estable.
+ Los efectos fisiológicos de los medicamentos pueden resultar alterados por las características del dispositivo
+y de los elementos desechables asociados (la composición del material desechable normalmente aparece
+indicado en el embalaje del mismo). Compruebe que son compatibles con las prescripciones, las características
+de las curvas de trompeta y los tiempos de ajuste de la alarma de oclusión en relación al flujo programado.
+ El dispositivo está equipado con una batería de iones de litio recargable. El manejo incorrecto de la batería
+de iones de litio por parte de personal no cualificado puede causar fugas, calentamientos, humo, explosiones
+o fuego, que pueden dar como resultado un deterioro de las prestaciones o fallos. También puede dañar el
+dispositivo de protección instalado en el módulo de la batería, provocando daños en el equipamiento o lesiones
+al usuario. (consulte la página 70 - Uso de la batería interna).
+ En caso de una situación inesperada en los controles de la bomba o en su entorno, el avanzado sistema de
+seguridad entrará en alarma parando la infusión y visualizando un código de error. Los usuarios están
+prevenidos sobre estas alarmas (ver capítulo 6) y en los casos donde el dispositivo sea usado para el suministro
+de sustancias de mantenimiento vital, como medicaciones de vida-media corta, considerar disponer de una
+adecuada provisión de repuesto de las soluciones suministradas.
+3481-4_nu_volumat_MC_agilia_ES 5
+
+
+
+2. Descripción
+1
+
+2
+
+3
+
+4
+
+5
+
+10
+6
+
+9
+7
+
+8
+
+1 - Asa 5 - Célula infrarroja 9 - Palanca fijación
+2 - Puerta de la bomba 6 - Conector de red 10 - Conector del sensor de gotas
+3 - Asa de la puerta 7 - Puerto de comunicaciones 
+
+y entrada y salida de 
+potencia CC 
+
+4 - Bloqueo de acoplamiento 8 - Clamp fijación
+6 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+11 25 12
+
+13
+14
+
+24 23 18 17 16 15
+
+22 21 20 19
+
+11 - Indicador de red 17 - OK/Inicio/Intro 23 - BOLUS o PURGA
+12 - SILENCIAR ALARMA 18 - Luces indicadoras (LED) 24 - ENCENDER/APAGAR
+13 - MENÚ 19 - Disminución rápido 25 - Pantalla de monitorización
+14 - Gráficos 20 - Disminución (consulte la página 12)
+15 - Corrección/Atrás 21 - Incremento
+16 - STOP/PAUSA 22 - Incremento rápido
+3481-4_nu_volumat_MC_agilia_ES 7
+
+
+
+3. Instalación
+
+Posicionamiento de la bomba(s)
+
+En soporte IV En un rail Sobremesa
+
+Varios dispositivos Agilia pueden Cuando dos dispositivos Agilia Los productos Agilia son 
+ensamblarse en cualquier orden están acoplados, el accesorio fácilmente transportables. 
+en un soporte IV. Agilia Duo puede usarse para Hasta tres dispositivos (máximo) 
+
+ Cuando los dispositivos estén centralizar la alimentación. pueden acoplarse durante el 
+
+ensamblados en un soporte IV, los transporte.
+
+bloqueos de acoplamiento deben 
+estar en la posición de cierre.
+8 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Uso del clamp de fijación
+
+El clamp de fijación es giratorio cuando está posicionado contra el cuerpo de la bomba. Se mantiene en 
+posición vertical u horizontal con el botón de fijación.
+Las imagenes siguientes muestran cómo modificar la colocación de la bomba, desde el soporte IV al rail. Las 
+siguientes imágenes muestran cómo modificar la colocación de la bomba desde un soporte IV a un rail.
+
+ Afloje la fijación (A) y retire el dispositivo del  Posicione el clamp contra el cuerpo de la bomba. 
+soporte IV. Pulse el botón de Esta es la posición recomendada del clamp 
+fijación (B). giratorio cuando el dispositivo está sobre una 
+
+superficie plana.
+
+B
+
+A
+
+ Rote el clamp de fijación 90 grados en sentido  Mueva el clamp de fijación hacia fuera (A). El 
+contrario a las agujas del reloj. botón de fijación se bloquea automáticamente. 
+
+Acople el dispositivo al raíl y use el tornillo de 
+fijación (B) para asegurarlo.
+
+A
+B
+
+3481-4_nu_volumat_MC_agilia_ES 9
+
+
+
+Instalación del dispositivo
+
+ Posicione el dispositivo de forma segura en el rail,  Realice una Prueba de Usuario. Para más 
+en un soporte IV o sobre una superficie y información consulte la página 56. La Prueba de 
+conéctelo a la red eléctrica. La bomba Usuario lleva a cabo un control completo de las 
+Volumat MC Agilia puede funcionar con su alarmas y las prestaciones de seguridad. Se 
+batería, pero durante un uso habitual, deberá recomienda si el dispositivo no ha sido usado 
+conectarse a la red para asegurar la recarga de la recientemente aunque en algunos países la 
+batería. El indicador de red se encenderá normativa legal vigente obliga a su realización 
+(amarillo) cuando la alimentación se reciba de la antes de cada uso. 
+red eléctrica o de una fuente externa.
+
+Preparación de la línea de infusión
+
+ Elija la línea Volumat  Prepare el contenedor de la solución 
+que mejor se ajuste al (bolsa/botella) con su línea de infusión 
+protocolo que vaya a correspondiente de acuerdo con los 
+utilizar. procedimientos de su centro.
+
+Advertencia: La línea y la solución del 
+contenedor deben estar en condiciones normales 
+de temperatura: +18°/+30 °C.
+Es recomendable purgar la línea de infusión, justo 
+antes de iniciar la administración.
+
+Purga de la línea utilizando bolsa o botella
+
+ Utilizando bolsa... ... o botella
+1. Introduzca el punzón en la bolsa (clamp 1. Introduzca el punzón en la botella (clamp 
+rotatorio abierto-entrada de aire cerrada). rotatorio abierto-entrada de aire cerrada).
+2. Apriete la bolsa para retirar el aire y llene la 2. Cierre el clamp rotatorio.
+cámara de goteo hasta 1/2 ó 2/3 de su capacidad. 3. Cuelgue la botella y apriete la cámara de goteo 
+3. Cuelgue la bolsa y deje que el líquido se hasta que se llene aproximadamente hasta la 
+introduzca suavemente en la línea. mitad de su capacidad.
+4. Cuando la línea esté completamente purgada, 4. Abra el clamp rotatorio.
+cierre el clamp rotatorio y compruebe que no hay 5. Abra la entrada de aire y deje que el líquido 
+ninguna burbuja de aire. entre suavemente en la línea.
+
+6. Cuando la línea de infusión se haya purgado, 
+cierre el clamp rotatorio y compruebe que no hay 
+burbujas de aire.
+
+Para las líneas de infusión equipadas con conector K-Nect de acceso sin aguja, girar este componente al revés 
+con objeto de eliminar las burbujas de aire. 
+10 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Instalación de la línea de infusión en la bomba (1/2)
+
+ Abra la puerta de la bomba levantando la palanca  1. Alinee la línea de infusión horizontalmente de 
+de la puerta. forma que el conector verde de la línea quede a la 
+Nota: La bomba se enciende automáticamente derecha del alojamiento verde de la bomba y el 
+cuando está conectada a la red (consulte la clamp azul de la línea quede alineado con el 
+opción Servicio [Par 28], en la página 54). Si no alojamiento azul de la bomba. 
+
+se enciende, pulse la tecla . 2. Inserte el conector verde en el alojamiento 
+verde de la bomba. 
+
+Un auto-test controla el funcionamiento de la 
+3. Coloque el clamp azul en su alojamiento y 
+
+bomba. Asegúrese de que todos los indicadores 
+luego presione el clamp para insertar la bisagra 
+
+LEDs y alarmas están activados. Si el auto-test es 
+esférica en su sitio.
+
+correcto, se mostrará un mensaje indicando que 
+se puede instalar la línea de infusión. 4. Asegúrese de que la línea esté en la guía de la 
+
+izquierda, luego levante y empuje la palanca de la 
+puerta para cerrarla.
+
+ El Sistema de control de Oclusividad, OCS  Si la prueba OCS se realiza con éxito, se visualiza 
+(Occlusivity Check System), cierra el modo de infusión definido en las opciones 
+automáticamente la línea, activa un bombeo real (Para programar la infusión, consulte la página 
+y verifica el incremento de presión. La prueba siguiente.)
+OCS verifica la oclusividad de la bomba y el 
+circuito para asegurar la bomba contra el riesgo 
+de flujo libre.
+3481-4_nu_volumat_MC_agilia_ES 11
+
+
+
+Instalación de la línea de infusión en la bomba (2/2)
+ La instalación final deberá estar como sigue:
+
+Coloque el contenedor 
+exterior a la bomba
+
+El contenedor tiene 
+que colocarse de 
+
+Al paciente 20 y 80 cm por 
+encima de la bomba
+
+La línea debe colocarse de forma que quede 
+holgada en la parte exterior de la bomba.
+
+Pantalla de monitorización
+Nivel de presión VAI: Volumen a infundir. Decrece durante la infusión. 
+La flecha indica el nivel de Para modificarlo, pulse <MENÚ> y seleccione "VAI".
+presión.
+Para conocer más Tiempo de infusión: Decrece 
+detalles, consulte la durante la infusión.
+página 59.
+
+Infusión en marcha: Las gotas 
+caen en la cámara de goteo a una 
+velocidad relacionada con el flujo.
+
+Nivel de batería 
+Indicador de presencia del 
+sensor de gotas: Se apaga 
+cuando se detecta una gota
+
+VI: Volumen infundido. Aumenta durante la Flujo de infusión en marcha: Se puede modificar 
+infusión. Para borrarlo, pulse la tecla  y  siempre que sea necesario, simplemente pulsando las 
+luego seleccione "ml?". teclas de incremento y disminución y luego OK.
+12 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+4. Puesta en marcha
+
+Modos Sin nombre de droga y Flujo ml/h
+Se describe el modo de infusión V/F y el modo de programación Sin nombre de droga. Para usar otro modo de 
+infusión, consulte la página 14; para usar otro modo de programación, consulte la página 28 o la página 29. 
+1 - Flujo/Inicio... 2 - Selección de volumen
+
+ Seleccione el modo Flujo ml/h (para el modo  Use las flechas para seleccionar el volumen a 
+Tasa de dosis, consulte la página 23) y pulse OK. infundir (VAI) y pulse OK.
+
+Nota: Use las flechas de incremento rápido para 
+aumentar el VAI a niveles predefinidos (1 ml, 10 ml, 
+20 ml, 50 ml, 100 ml, 250 ml, 500 ml, 1000 ml, ...).
+Advertencia: El valor del volumen deberá ser lo más 
+cercano (menor o igual) posible al volumen real del 
+contenedor. Será necesario tener en cuenta todos los 
+volúmenes agregados o eliminados, incluidos los 
+volúmenes de fluidos contenidos en la línea o los que 
+se hayan perdido durante la purga, que deben ser 
+excluidos del volumen a infundir (~ 25 ml).
+
+3 - Selección de flujo 4 - Inicio de la infusión
+
+ Use las flechas para modificar el flujo que precise y  Abra el clamp de rodillo. Compruebe que no hay 
+luego pulse OK. flujo libre ni aire dentro de la línea de infusión.
+Nota: El tiempo de infusión se calcula  Conecte el equipo al paciente usando la línea de 
+automáticamente y se ajusta en función del flujo infusión IV de acuerdo con los procedimientos de su 
+mostrado en pantalla. centro médico.
+
+ Pulse start para iniciar la infusión o C para cambiar 
+la selección de Volumen/Flujo. 
+3481-4_nu_volumat_MC_agilia_ES 13
+
+
+
+Otros modos de infusión en Flujo ml/h
+El modo de infusión configurado se visualiza por defecto, pero se puede seleccionar otro modo de infusión 
+(Volumen/Tiempo/Flujo, Volumen/Tiempo, Tiempo/Flujo o Sólo flujo, Rampa, Secuencia o Gotas/min), 
+siempre y cuando esté preseleccionado en la opción de Servicio [Par 29] (consulte la página 54).
+Nota: Al menú del modo de infusión se puede acceder antes de que se inicie la infusión y en modo <STOP>.
+
+1 - Selección en Menú 2 - Selección del modo de infusión
+
+ Pulse la tecla  para visualizar la pantalla del  En la pantalla de modo de infusión, use la flecha 
+modo de infusión. Si no aparece desde un principio, para seleccionar un nuevo modo de infusión luego 
+use las flechas para seleccionar "ml/h". pulse OK.
+ Pulse enter. Nota: ¿Nuevo? se visualiza en la pantalla si 
+
+selecciona el modo actual. Pulse esta tecla para 
+configurar nuevos parámetros.
+
+3 - Volumen/Tiempo/Flujo  o Volumen/Tiempo
+
+ Seleccione un volumen a infundir (VAI) y pulse OK.  Seleccione un volumen a infundir (VAI) y luego 
+ Seleccione el tiempo y pulse OK. pulse OK.
+
+ Seleccione un flujo y pulse OK.  Seleccione el tiempo y pulse OK.
+
+ Pulse start.  Pulse start.
+
+Nota: Si modifica el flujo, la duración de la infusión se Nota: El flujo es calculado automáticamente y puede 
+calcula automáticamente y se reajusta en función del modificarse directamente sólo durante la infusión.
+flujo que aparece en pantalla.
+14 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Tiempo/Flujo Flujo simple
+
+ Seleccione un tiempo y luego pulse OK.  Seleccione un flujo y luego pulse OK y start.
+ Seleccione un flujo y luego pulse OK y start. Nota 1: Este modo de infusión funciona sólo si el 
+Nota: El volumen a infundir (VAI) es calculado sensor de gotas está fijado a la cámara de goteo y 
+automáticamente y no puede modificarse conectado a la bomba (para más información sobre la 
+directamente. instalación, consulte la página 39). Si no, aparece un 
+
+mensaje de aviso en pantalla cuando seleccione este 
+modo de infusión. En ese caso, apague la bomba, 
+instale el sensor de gotas y reinicie la bomba.
+Nota 2: El hecho de que dejen de detectarse gotas 
+indica que el contenedor está vacío. Se detendrá la 
+infusión y se activará una alarma.
+
+Modo Gotas/minuto
+
+Este modo de infusión permite convertir la 
+prescripción tradicional de un flujo en gotas por 
+minuto a un flujo en ml/h.
+ Verifique la cantidad equivalente de un flujo en 
+gotas por ml y pulse OK.
+ Seleccione un volumen a infundir (VAI) y pulse OK.
+ Seleccione un flujo o un número de gotas por 
+minuto y pulse OK de acuerdo con la opción de 
+Servicio [Par 33] (página 55).
+ Pulse start.
+ Nota: El valor predeterminado se basa en la 
+conversión matemática de 1 gota/min = 3 ml/h 
+(20 gotas por ml). Este valor puede diferir en función 
+de la droga seleccionada.
+
+3481-4_nu_volumat_MC_agilia_ES 15
+
+
+
+Modo Rampa
+Este modo de infusión permite, mediante un simple ajuste de los tiempos de ascenso y descenso, que el flujo 
+de infusión aumente gradualmente pasando por diez fases intermedias hasta que se alcance el flujo estable 
+máximo. Al final de la infusión, el flujo disminuirá gradualmente hasta llegar a cero.
+Nota: A este modo de infusión sólo se puede acceder en el modo Flujo ml/h.
+
+ Con las teclas  puede regular el volumen total a infundir. Confirme pulsando OK.
+ Ajuste el tiempo total de la infusión en minutos con  y  y las horas con  y . 
+Confirme pulsando OK.
+ Ajuste el tiempo de aumento en minutos y horas con las flechas. Confirme pulsando OK.
+ Repita el mismo procedimiento con el tiempo de descenso.
+ Determine el flujo estable con las flechas. Confirme pulsando OK.
+ Pulse la tecla start para iniciar la infusión.
+
+1 - Detención de la infusión 2 - Rampa descendente
+
+ Pulse  durante la infusión.  Compruebe los valores de la rampa descendente y 
+A continuación es posible llevar a cabo tres acciones: pulse OK.
+ Pulsar  para iniciar la rampa descendente. 
+ Pulsar  para detener la infusión.
+ Pulsar C para continuar la infusión. 
+Nota: A esta pantalla sólo se puede acceder en el 
+momento estable o valle. En cualquier otra situación, 
+si se pulsa  se detiene directamente la infusión.
+16 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Modo Secuencial
+Se pueden programar hasta veinte secuencias de infusión, cada una de ellas con sus propios volúmenes a 
+infundir y sus flujos de infusión. En el modo Secuencial también se pueden programar periodos de Pausa 
+(Stop) o Mantener vena abierta (MVA).
+Nota:  A este modo de infusión sólo se puede acceder en el modo Flujo ml/h.
+
+                                          
+
+ Regule el volumen de la primera secuencia con . Confirme pulsando OK.
+ Ajuste el flujo de la primera secuencia con las flechas. Confirme pulsando OK.
+ Use las flechas para seleccionar si quiere o no una señal de aviso al final de cada secuencia. Confirme 
+pulsando OK.
+ Seleccione la siguiente secuencia con . Regule el volumen. Confirme pulsando OK.
+ Configure las secuencias siguientes de la misma forma.
+ Ajuste la última secuencia seleccionando Fin para el último volumen a infundir.
+ Repase la programación secuencial y confirme pulsando OK.
+ Pulse la tecla start para iniciar la infusión.
+Las modificaciones que se efectúen en un programa secuencial únicamente se llevarán a cabo en las 
+secuencias que aún no se hayan completado o en todo el programa secuencial en caso de reiniciarlo. Se 
+puede programar una señal de aviso al final de cada secuencia.
+Nota:  Para modificar una secuencia futura, pulse la tecla , cambie los parámetros de la secuencia futura 
+y pulse Inicio para confirmar. El programa secuencial no se interrumpe.
+Si un programa secuencial se modifica durante una infusión secuencial, sólo se modificarán las secuencias 
+futuras.
+
+Descripción de funciones específicas
+Fin: indica el fin de las secuencias programadas
+Stop: para programar una pausa entre dos secuencias
+MVA: para programar una secuencia de MVA
+Repetir: permite repetir hasta veinte veces las secuencias ya programadas (limitadas por el VAI total).
+3481-4_nu_volumat_MC_agilia_ES 17
+
+
+
+Modo Secundario manual (modo por defecto)
+Este modo de infusión permite suministrar el contenido de una bolsa o botella secundaria a través de una línea
+secundaria (segunda línea o línea superior de VL SP22 / VL ON10 / VL ON20 / VL ON30, VL ON40) conectada
+a VL ST22, VL TR22, VL TR43, VL SP22, VL ON10, VL ON20, VL ON30, VL ON40, VL ON11, VL ON12,
+VL ON12FX, VL ON21, VL ON22, VL ON22OP, VL ON22FX, VL ON42, VL ON42OP, VL ON42FX, VL ON90FX
+utilizada como línea primaria.
+Los diferentes pasos se deben realizar manualmente.
+Nota: a este modo sólo se puede acceder en el modo Flujo ml/h.
+
+ Cuelgue la bolsa secundaria conectada a la línea secundaria purgada.
+ Pulse  para detener la infusión primaria.
+ Conecte la línea secundaria al acceso K-Nect sin aguja superior de la línea primaria respetando la técnica 
+aséptica. Este paso no es necesario para VL SP22, VL ON10, VL ON20, VL ON30, VL ON40.
+ Pulse , utilice las flechas para seleccionar el modo secundario y pulse OK.
+ Cierre el clamp superior de la línea primaria.
+ Pulse OK para confirmar los parámetros del modo primario que deberá mantenerse en espera y acceda 
+a la configuración secundaria.
+18 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+1 - Definición de la infusión 2 - Inicio de la infusión secundaria
+
+ 
+ En modo V/F, utilice las flechas para seleccionar  Comprobar la instalación de la línea: línea
+el volumen secundario a infundir. Confirme pulsando secundaria abierta, línea primaria cerrada.
+OK.  Pulse start para iniciar la infusión secundaria.
+ Use las flechas para seleccionar el flujo 
+secundario. Confirme pulsando OK.
+Nota: el actual volumen infundido es el resultante del
+volumen infundido durante la infusión secundaria. Está
+visualizado en negrita en la parte inferior de la pantalla.
+Nota: el volumen infundido durante la infusión primaria
+se visualiza encima del actual volumen infundido.
+
+3 - Fin de la infusión secundaria
+
+ Cuando la infusión secundaria haya finalizado,  Pulse Sí para continuar con una infusión 
+la bomba se detiene. Pulse la tecla  para secundaria. Vuelva al paso 1.
+reconocerla.  Pulse No para volver a la infusión primaria.
+Nota: al finalizar la infusión secundaria, la prealarma 
+de fin de infusión no está activada y por lo tanto se 
+recomienda ajustar cuidadosamente el VAI de la 
+infusión secundaria.
+3481-4_nu_volumat_MC_agilia_ES 19
+
+
+
+4 - Reinicio de la infusión primaria
+
+ Compruebe que la línea secundaria está cerrada y  Pulse start para reanudar la infusión primaria.
+vuelva a abrir la línea primaria. Nota: en caso de que se utilice un sensor de gotas,
+ Pulse la tecla  para retomar los últimos hay que colocarlo en la cámara de goteo correcta. La
+parámetros de la infusión primaria. opción de Servicio [Par 30] (consulte la página 54)
+
+permite definir el tipo de línea gestionada por el sensor
+de gotas.
+Nota: el actual volumen infundido es el resultante del
+volumen infundido durante la infusión primaria. Está
+visualizado en negrita en la parte inferior de la pantalla.
+20 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Modo Secundario automático (para ser activado con Partner)
+Este modo de infusión permite suministrar el contenido de una bolsa o botella secundaria por medio de una
+línea secundaria conectada a la línea principal VL ST42 o VL TR42 denominada línea primaria.
+La reanudación al modo primario se gestiona automáticamente.
+Nota: a este modo sólo se puede acceder en el modo Flujo ml/h.
+
+ Cuelge la bolsa secundaria más alta (>30cm) que el contenedor primario. La línea secundaria deberá ser 
+purgada.
+ Pulse  para detener la infusión primaria.
+ Conecte la línea secundaria al acceso K-Nect sin aguja superior de la línea primaria respetando la técnica 
+aséptica.
+ Pulse , utilice las flechas para seleccionar el modo secundario y pulse OK.
+ Pulse OK para confirmar los parámetros del modo primario que deberá mantenerse en espera y acceda 
+a la configuración secundaria.
+3481-4_nu_volumat_MC_agilia_ES 21
+
+
+
+1 - Definición de la infusión 2 - Inicio de la infusión secundaria
+
+ 
+ En modo V/F, utilice las flechas para seleccionar  Comprobar la instalación de la línea: línea
+el volumen secundario a infundir. Confirme pulsando secundaria abierta, contenedor primario más bajo que
+OK. la bolsa secundaria.
+ Use las flechas para seleccionar el flujo  Pulse start para iniciar la infusión secundaria.
+secundario. Confirme pulsando OK.
+Nota: el actual volumen infundido es el resultante del
+volumen infundido durante la infusión secundaria. Está
+visualizado en negrita en la parte inferior de la pantalla.
+Nota: el volumen infundido durante la infusión primaria
+se visualiza encima del actual volumen infundido.
+
+3 - Fin de la infusión secundaria
+Nota: al finalizar la infusión secundaria, la prealarma
+de fin de infusión no está activada y por lo tanto se
+recomienda ajustar cuidadosamente el VAI de la
+infusión secundaria.
+Nota: en caso de que se utilice un sensor de gotas,
+hay que colocarlo en la cámara de goteo correcta. La
+opción de Servicio [Par 30] (consulte la página 54)
+permite definir el tipo de línea gestionada por el sensor
+de gotas.
+Nota: el actual volumen infundido es el resultante del
+
+Cuando la infusión secundaria haya finalizado, la
+volumen infundido durante la infusión primaria. Está
+
+bomba reanuda automáticamente la infusión primaria y
+visualizado en negrita en la parte inferior de la pantalla.
+
+se emite un sonido: la línea secundaria se puede
+cerrar.
+ Compruebe que la línea primaria está abierta.
+ Pulse  para reconocerla y vuelva a la 
+pantalla de monitorización de la infusión primaria.
+22 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Modo Sin nombre de droga y Tasa de dosis
+Se describe el modo de infusión V/F. Para usar otro modo de infusión, consulte la página 14.
+
+1 - Pantalla de inicio 2 - Unidades de dilución
+
+ Seleccione el modo Tasa de dosis y pulse OK.  Use las teclas para seleccionar las unidades de 
+dilución.
+Nota: Puede seleccionar la unidad por ml o por Xml. 
+Para conocer la lista de unidades, consulte la 
+página 61. Estas unidades están preseleccionadas en 
+la opción de Servicio [Par 20] (consulte la página 54).
+ Pulse OK para validar su selección.
+
+3 - Valores de dilución 4 - Unidades de flujo
+
+ Seleccione los valores de dilución.  Seleccione las unidades de flujo.
+ Pulse OK para validar su selección.  Pulse OK para validar su selección.
+3481-4_nu_volumat_MC_agilia_ES 23
+
+
+
+5 - Paciente
+
+Nota: Esta pantalla sólo aparece si ha seleccionado 
+una unidad de flujo del tipo "mg/kg/h"
+(ajuste por peso) o "mg/m2/h" (ajuste por 
+superficie).
+El peso predeterminado se establece en la opción 
+Servicio [Par 23] (consulte la página 54).
+ Seleccione un valor.
+ Pulse OK para validar su selección.
+
+6 - Selección del volumen
+
+ Seleccione el volumen a infundir (VAI) y pulse OK.
+24 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+7 - Selección de flujo 8 - Inicio de la infusión
+
+ Seleccione la tasa de dosis y pulse OK.  Abra el clamp de rodillo. Compruebe que no hay 
+Nota: El flujo en ml/h se calcula automáticamente en flujo libre ni aire dentro de la línea de infusión.
+función de los parámetros del paciente y la dilución.  Conecte el equipo al paciente usando la línea de 
+
+infusión IV de acuerdo con los procedimientos de su 
+centro médico.
+ Pulse la tecla start para iniciar la infusión.
+
+Dosis de carga
+Cuando se han introducido los parámetros, se puede infundir una dosis de carga. 
+Nota: Esta operación está disponible en el modo Tasa de dosis sólo si está seleccionada en la opción de 
+Servicio [Par 19] (consulte la página 54).
+
+9 - Pregunta sobre dosis de carga 10 - Unidad de la dosis de carga 
+
+ Responda a la pregunta: "¿Desea una dosis de  Seleccione la unidad de la dosis de carga.
+carga?"  Pulse OK para validar su selección.
+ Si pulsa No, vuelve al paso 8. En ese caso pulse 
+start si quiere iniciar directamente la infusión.
+ Si pulsa Sí, vaya al paso 10.
+3481-4_nu_volumat_MC_agilia_ES 25
+
+
+
+11 - Configuración de la dosis 
+de carga 12 - Inicio de la dosis de carga 
+
+ Configure los parámetros de la dosis de  Pulse C para cambiar los parámetros de la dosis de 
+carga y pulse OK. carga. Vuelve al paso 10.
+
+ Pulse start para comenzar la dosis de carga.
+
+13 - Interrupción de la dosis de carga
+
+ Pulse la tecla  para interrumpir la dosis de 
+carga.
+
+Nota: si pulsa la tecla  dos veces, la dosis de carga 
+se borra. Pulse start para continuar con la infusión.
+ Responda a la pregunta: "¿Continuar?"
+
+- Si pulsa No, la dosis de carga se borra. Pulse 
+start para continuar con la infusión.
+- Si pulsa start, la dosis de carga queda confirmada 
+y la infusión continúa hasta que termine la dosis de 
+carga. Cuando finaliza la dosis de carga, la infusión 
+continúa con los valores programados inicialmente 
+en la fase 8.
+Nota: Durante la infusión, pulsando la tecla  puede 
+verificar el volumen infundido. Si la pantalla de infusión 
+no reaparece automáticamente, pulse de nuevo la 
+tecla .
+
+26 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Otros modos de infusión en Tasa de dosis
+El modo de infusión configurado se visualiza por defecto, pero se puede seleccionar otro modo de infusión 
+(Volumen/Tiempo/Flujo, Volumen/Tiempo, Tiempo/Flujo o Sólo flujo), siempre y cuando esté preseleccionado 
+en la opción de Servicio [Par 29] (consulte la página 54).
+Nota:  al menú del modo de infusión se puede acceder antes de que se inicie la infusión y en modo <STOP>.
+
+Selección en Menú Selección del modo de infusión
+
+ Pulse la tecla  para ver la pantalla del modo  En la pantalla de modo de infusión, use la flecha 
+de infusión. Si no aparece desde un principio, use las para seleccionar un nuevo modo de infusión y pulse 
+flechas para seleccionar "DR". OK.
+ Pulse start.
+
+Volumen/Tiempo/Flujo... o Volumen/Tiempo...
+
+ Seleccione un volumen a infundir (VAI),  Seleccione un volumen a infundir (VAI), 
+y pulse OK. y pulse OK.
+ Seleccione el tiempo y pulse OK.  Seleccione el tiempo y pulse OK.
+ Seleccione un valor para la dosis y pulse OK.  Pulse start.
+ Pulse start. Nota: El flujo se calcula automáticamente y puede 
+
+modificarse directamente sólo durante la infusión.
+3481-4_nu_volumat_MC_agilia_ES 27
+
+
+
+Tiempo/Flujo Flujo simple
+
+ Seleccione el tiempo y pulse OK.  Seleccione una dosis y pulse OK y start.
+ Seleccione una dosis y pulse OK y start. Nota 1: Este modo de infusión funciona sólo si el sensor 
+Nota: El volumen a infundir (VAI) se calcula de gotas está fijado a la cámara de goteo y conectado a 
+automáticamente y no puede modificarse la bomba (para más información sobre la instalación, 
+
+directamente. consulte la página 39). Si no es así y selecciona este 
+modo de infusión, aparece un mensaje de aviso en la 
+pantalla. En ese caso, apague la bomba, instale el sensor 
+de gotas y reinicie la bomba.
+Nota 2: El hecho de que dejen de detectarse gotas indica 
+que el contenedor está vacío. Se detendrá la infusión y se 
+activará una alarma.
+
+Modo Etiqueta de droga
+Precaución: El modo Etiqueta de droga sólo está disponible si está autorizado en la opción de Servicio 
+[Par 22] (consulte la página 54) y preseleccionado en las opciones de Usuario [Usuario 9] (consulte la 
+página 52).
+
+1 - Selección de droga 2 - Definición de la infusión
+
+ Ponga en marcha la bomba. Aparece la pantalla  La configuración de la infusión puede hacerse tal y 
+Droga. como se describe en el apartado Puesta en marcha en 
+ Use las flechas para seleccionar un nombre de la la página 13. 
+lista de drogas y luego pulse OK.
+Nota: Si el nombre de droga no está predefinido en la 
+lista de drogas seleccione "Droga X (ml/h)" o "Droga X 
+(dosis)".
+28 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Modo Vigilant Drug’Lib
+Vigilant® Drug’Lib es el modo más seguro y sencillo de administrar una droga usando la bomba Volumat MC 
+Agilia. Tiene que seleccionar una droga entre las predefinidas en la biblioteca con todos sus parámetros de 
+infusión. (Para definir una biblioteca de drogas, use el programa Vigilant® Drug’Lib para Agilia). 
+Atención:  Vigilant DrugLib está disponible sólo si está autorizada en las opciones de Servicio [Par 22] 
+(consulte la página 54) y preseleccionada en las opciones de Usuario [Usuario 9] (consulte la página 52).
+
+1 - Selección de droga 2 - Información de droga
+
+ Arrancar la bomba. Se visualiza la pantalla de  Dependiendo de la droga seleccionada, puede 
+Droga. aparecer una pantalla informativa. Si la información 
+ Use las flechas para seleccionar un nombre de la se ajusta a las necesidades del paciente y a la 
+biblioteca de Drogas y luego pulse OK. infusión, 
+Nota:  La biblioteca de Drogas está preseleccionada pulse OK.
+en las opciones de Servicio [Par 17] (consulte 
+la página 53).
+ La configuración de la infusión puede hacerse tal y como se describe en el apartado Puesta en marcha 
+en la página 13. 
+Nota: Los campos y los valores seleccionados pueden estar limitados por los parámetros de las drogas 
+definidos en la biblioteca Vigilant® Drug’Lib.
+
+3 - Configuración de parámetros 4 - Flujo alto/Flujo bajo
+
+ La pantalla muestra los valores predefinidos  Durante la configuración de los parámetros, si el 
+para el volumen a infundir (VAI), el tiempo y el flujo. flujo calculado es mayor que el límite predefinido en 
+Puede usar las flechas para modificar los la biblioteca de drogas, se muestra el aviso Flujo 
+parámetros graduables. alto.
+ Pulse OK para validar los parámetros.  Para iniciar la infusión, hay que confirmar que se 
+Nota 1: Al seleccionar "Furosemida" el dispositivo desea el flujo elevado pulsando la tecla start.
+pasa a modo Micro (valores con un decimal). Nota: De la misma manera, si el flujo calculado está 
+Nota 2: En función del modo de infusión predefinido, por debajo del límite inferior predefinido en la 
+algunos parámetros no se pueden modificar. biblioteca de drogas, se mostrará el aviso Flujo bajo.
+3481-4_nu_volumat_MC_agilia_ES 29
+
+
+
+Funciones especiales
+Bolus programado
+Usando la tecla <BOLUS> Usando la tecla <MENÚ>
+
+ Pulse la tecla :  Pulse la tecla .
+ Pulse prog. Aparece la pantalla "Bolus  Seleccione "Bolus programado" en el menú.
+programado". Vaya al paso 1.  Pulse enter.
+
+1 - Unidad del Bolus 2 - Parámetros del bolus
+
+ Seleccione la unidad del bolus.  Ajuste los parámetros del bolus.
+Nota: Esta pantalla sólo se visualiza en el modo  Seleccione un volumen o una dosis y pulse OK.
+Tasa de dosis  Seleccione un valor de flujo (ml/h) y pulse OK.
+30 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+3 - Inicio del bolus 4 - Interrupción del bolus
+
+ Pulse C para cambiar los valores del bolus. Vuelve  Pulse la tecla  para interrumpir el bolus.
+al paso 1. Responda a la pregunta: "¿Continuar?"
+ Pulse start para comenzar el bolus. - Si pulsa No, el bolus se borra.
+Nota: Si pulsa de nuevo la tecla , aparece - Si pulsa start, el bolus continua.
+directamente esta pantalla con los últimos parámetros Nota: Durante el bolus, el nivel de la presión de 
+del bolus. oclusión se ajusta al valor máximo (750 mmHg).
+Nota: Para guardar los parámetros del bolus, pulse en 
+el icono del disquete.
+
+Bolus manual
+
+ Para iniciar un bolus, pulse dos veces la tecla: una 
+pulsación breve y otra continua (activa el bolus ; 
+compruebe el volumen infundido en la pantalla). Este 
+volumen se tiene en cuenta en el VAI.
+ Para detener el bolus, suelte la tecla .
+ Para cambiar el flujo del bolus, mantenga pulsada 
+la tecla del bolus durante al menos 3 segundos y 
+modifique el flujo de bolus con las teclas de selección.
+Nota: Esta operación sólo está disponible si está 
+preseleccionada en las opciones de Servicio [Par 19] 
+(consulte la página 54). Durante el bolus, el nivel de la 
+presión de oclusión se ajusta al valor máximo 
+(750 mmHg).
+Nota: En los modos Rampa y Secuencial no se puede 
+acceder a esta función. 
+3481-4_nu_volumat_MC_agilia_ES 31
+
+
+
+Las dos primeras funciones sólo están disponibles si se han preseleccionado en la opción de Servicio [Par 19] 
+(consulte la página 54).
+
+Purga de línea Ver burbujas de aire
+
+ Pulse la tecla  para encender la bomba. Nota: Esta función sólo está disponible cuando se 
+Se visualiza el modo de infusión definido en las activa una alarma de aire (volumen de aire excedido 
+opciones después de la pantalla OCS. o burbuja de aire frente al sensor de aire). La burbuja 
+ Pulse la tecla . Asegúrese de que la línea de de aire se elimina sin necesidad de abrir la puerta de 
+infusión no está conectada al paciente, como se indica la bomba.
+en la pantalla.  Pulse la tecla  para ir a la función <Ver burbujas 
+ Pulse OK. de aire>
+ Pulse y mantenga pulsada la tecla  y suéltela  Pulse OK para confirmar o C para cancelar la 
+para finalizar la purga. selección.
+Nota: Sólo se puede acceder a la purga si no se ha  Pulse y mantenga pulsada la tecla  para que la 
+iniciado la infusión. burbuja de aire salga de la bomba.
+
+Nota: Esta función le permite hacer avanzar la 
+burbuja de aire a la misma velocidad establecida para 
+el flujo, para un volumen igual al volumen de aire 
+definido en la configuración de la alarma.
+
+Advertencia:  Se recomienda pedir consejo médico para valorar si puede reiniciarse la infusión debido a la 
+presencia de aire. Si la burbuja de aire supera un tamaño aceptable o si la bomba no puede reiniciarse 
+porque todavía queda aire, la línea de infusión deberá ser retirada de la bomba y desconectada del paciente 
+de acuerdo con los procedimientos internos de su centro médico para purgar la línea de infusión o cambiarla.
+Nota:  Durante la purga, el nivel de la presión de oclusión se ajusta al valor máximo (750 mmHg) y la alarma 
+de aire queda desactivada.
+32 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Operaciones generales
+Las siguientes operaciones pueden repetirse o modificarse durante el proceso de infusión.
+Nota: Para obtener más información sobre los indicadores luminosos, consulte la sección Luces indicadoras 
+del capítulo "Pantalla y símbolos", página 40.
+
+Stop Desconexión
+
+ Para detener la infusión, pulse la tecla .  Pulse la tecla  para interrumpir la infusión.
+Nota: Después de dos minutos, se activa una alarma  Pulse la tecla  y manténgala pulsada hasta 
+para recordarle que la infusión está parada. que aparezca el mensaje de desconexión.
+ Para reiniciar la infusión, debe confirmar  Para desconectar la bomba, desconecte la 
+(o modificar) los valores de volumen, tiempo y flujo, alimentación de la red eléctrica y luego desenchufe 
+pulsando OK para cada valor y, finalmente, start. el cable.
+
+Pausa
+
+ Para programar una pausa, pulse la tecla  Nota: Si no selecciona la opción "inicio de infusión al 
+dos veces y defina la duración de la pausa. final de la pausa", al finalizar la pausa suena una 
+ Si lo desea, marque la casilla de verificación alarma. Para continuar con la infusión tiene que 
+para activar la opción "inicio de infusión al final de la pulsar start.
+pausa" para un reinicio automático.
+3481-4_nu_volumat_MC_agilia_ES 33
+
+
+
+VAI seleccion durante la infusión Gestión presión
+
+ Durante la infusión es posible ajustar el VAI.  Los parámetros de presión para la infusión pueden 
+ Pulse la tecla  para acceder al menú y definirse en el menú de gestión de la presión.
+seleccione VAI. Modifique el VAI con las teclas de  Pulse la tecla  y utilice las teclas de selección y 
+selección y pulse OK. el botón enter para acceder a los parámetros de 
+
+gestión de presión.
+
+Presión máxima DPS
+
+ Utilice las teclas de selección para definir el límite  Para activar el DPS, use el botón con la <casilla de 
+de presión superior y pulse OK. verificación>. 
+ El Sistema Dinámico de Presión (DPS) calcula las  Para continuar la infusión, pulse OK.
+diferencias de presión para anticiparse a posibles 
+problemas de oclusión o desconexión.
+34 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Historial
+Para visualizar el historial cuando se está llevando a cabo una infusión, pulse la tecla de gráficos. Esta tecla
+también permite seleccionar la pantalla de infusión numérica y gráfica. Pulse el botón con pulsaciones breves
+hasta que llegue al menú del historial. Seleccione el historial con las teclas de selección. 
+
+Símbolos Definiciones
+
+Círculo Historial de presión
+
+Curva Historial de flujo
+
+Lupa + Ir a un periodo más concreto
+
+Lupa - Ir a un periodo más amplio
+
+Flecha hacia la derecha Desplazar el marcador de sucesos hacia la derecha
+
+Desplazar el marcador de sucesos hacia la
+Flecha hacia la izquierda
+
+izquierda
+
+Línea vertical Marcador de tiempo/suceso
+
+Detalles del tiempo/suceso en el punto en él que
+Ojo
+
+está situado el marcador
+
+Nota 1: Para actualizar el historial, salga y seleccione de nuevo el historial. Mientras permanece en la pantalla
+del historial no se realizan actualizaciones automáticas.
+Nota 2: El historial no se guarda después de apagar el dispositivo
+
+3481-4_nu_volumat_MC_agilia_ES 35
+
+
+
+Historial de presión (en mmHg)
+En la línea superior aparecen el tiempo y el límite de
+
+7 8 9 presión.
+
+La línea de puntos representa el límite. Este límite
+puede modificarse en el menú Usuario [Usuario 4:
+presión] (consulte la página 52).
+También puede regularse durante la infusión en la
+sección Presión del menú.
+
+La curva continua representa la presión real durante
+la infusión.
+El historial se cancela cuando se produce un cambio
+de paciente o un cambio de droga.
+
+1 4 3 6
+El historial funciona durante dos horas.
+
+Nota: En los casos de bolus y purga, las alarmas del límite de presión aumentan hasta su nivel máximo.
+
+Ejemplo de una vista de oclusión Ejemplo de una pantalla detallada de un suceso
+
+Esta pantalla aparece pulsando la tecla que tiene el 
+símbolo de un ojo. El valor de "Lím. usuario" muestra 
+el límite definido por el usuario. El límite actual es la 
+presión de la infusión en la línea. 
+
+Historial de flujo/dosis
+
+El historial funciona durante doce horas.
+La línea superior indica el flujo o la tasa de dosis.
+36 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Cambio de una línea de infusión
+1. Pulse la tecla  para detener la infusión. 
+2. Cierre el clamp de rodillo.
+3. Pulse la tecla  para silenciar la señal acústica 
+durante dos minutos.
+4. Abra la puerta de la bomba.
+5. Retire la línea de infusión de la bomba.
+6. Desconecte la línea de infusión del contenedor.
+7. Desconecte la línea de infusión del dispositivo IV 
+de acuerdo con los procedimientos de su centro 
+médico.
+8. Siga las instrucciones descritas desde la página 11 
+a la 13 (instalación de la línea de infusión y 
+configuración de la infusión).
+
+Preprogramación de la infusión
+
+Es posible preprogramar la bomba Volumat MC Agilia C le permite cambiar los parámetros y exit valida los 
+antes de instalar la línea de infusión. parámetros programados. A continuación, el 
+Encienda el dispositivo (puerta cerrada y sin línea) y dispositivo muestra la pantalla "Instalar la línea". 
+seleccione el botón prog. Cuando la línea de infusión se ha instalado se 
+La configuración de la infusión puede efectuarse visualizan el auto-test y los parámetros programados.
+según las instrucciones descritas en la página 13. Pulse start para iniciar la infusión o C para cambiar 
+Cuando se han introducido lógicamente los los parámetros. 
+parámetros y se ha confirmado pulsando OK, Nota: Los parámetros se almacenan en el dispositivo 
+aparecen las opciones exit y C en calidad de y se visualizan al encender el dispositivo.
+acciones opcionales.
+3481-4_nu_volumat_MC_agilia_ES 37
+
+
+
+Función de aviso 
+Activación de la función Desactivación de la función
+
+ Pulse la tecla  para acceder al menú y  Pulse la tecla  para acceder al menú y 
+seleccione . Pulse enter. seleccione . Pulse enter.
+ Seleccione un periodo de anticipación para definir  Para desactivar la función, coloque el periodo de 
+la hora de activación de la alarma. anticipación en OFF.
+Nota 1: El tiempo de activación se calcula en función 
+de la hora del dispositivo, que aparece indicado en la 
+parte inferior de la pantalla.
+Nota 2: Si durante la hora de aviso el dispositivo 
+estaba apagado, al volver a encenderlo aparece un 
+mensaje de aviso. 
+38 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Sensor de gotas (opcional)
+El sensor de gotas le permite trabajar con el modo de infusión Sólo flujo (para más detalles, consulte las 
+páginas 15 y 28) y detectar que se vacía el contenedor. Se recomienda usar el sensor de gotas cuando el 
+volumen real del contenedor (bolsa o botella) no se conoce con exactitud.
+1. Conecte el terminal del sensor de gotas al conector que hay en la parte trasera de la bomba antes de 
+
+encenderla.
+2. Para una cámara de goteo estándar, fije el sensor de gotas en la parte superior de la cámara de goteo 
+
+alineando la parte vertical del sensor de gotas con la entrada de aire de la cámara de goteo como se 
+indica en la fotografía.
+
+Cámara de goteo estándar (ejemplo: VL ST00)
+
+Para una cámara de goteo usada con anillo central, fije el sensor de goteo en la parte superior de la 
+cámara de goteo colocada encima del anillo.
+
+Cámara de goteo usada con anillo central (ejemplo: VL ON42)
+
+Precaución: Compruebe que la cámara de goteo está en la posición correcta y verifique que no hayan gotas 
+en las paredes de la cámara de goteo. Compruebe que el sensor de gotas y la cámara de goteo se mantienen 
+en posición vertical.
+Cuando el sensor de gotas esté conectado, compruebe que en la pantalla aparece el símbolo.
+
+Nota: Con el sensor de gotas conectado, el flujo máximo se restringe a 1100 ml/h.
+3481-4_nu_volumat_MC_agilia_ES 39
+
+
+
+La bomba Volumat MC Agilia muestra en pantalla los parámetros de la infusión en marcha mediante símbolos 
+específicos. 
+
+Una gota cayendo dentro de la 
+cámara de goteo (consulte 
+
+Infusión en marcha
+también Luces indicadoras para 
+la infusión en progreso).
+STOP permanece en el centro de 
+
+Pausa la pantalla hasta que finaliza la 
+Visualización pausa.
+continua El dispositivo está funcionando 
+
+Vigilant® Drug’Lib
+con Vigilant® Drug’Lib.
+
+Aparece cuando el dispositivo 
+está funcionando con la batería. 
+
+Vida Bateria
+Se representan tres niveles 
+diferentes de carga.
+Cuando el dispositivo está 
+conectado a una clavija activa de 
+red eléctrica, el icono permanece 
+
+Enchufe
+encendido en amarillo. En todas 
+las demás situaciones el LED 
+está apagado.
+
+Luces indicadoras Infusión en marcha
+Verde intermitente
+
+Las luces indicadoras principales 
+proporcionan información sobre 
+
+Prealarma Naranja la infusión: en marcha, en 
+intermitente prealarma, o en alarma.
+
+Alarma
+Rojo intermitente
+
+Inicio (Start)
+
+Validación
+
+Acceso a función
+
+Estos símbolos ayudan al usuario 
+Ayuda Cambiar selección durante la programación.
+
+Seleccionada
+
+No seleccionada
+
+Ver información sobre la 
+droga
+5. Pantalla y símbolos
+40 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Alarma de desconexión de 
+red eléctrica
+
+Aumento de presión
+
+Alarmas y Caída de presión Símbolos principales para 
+características alarmas y funciones de 
+de seguridad Se ha superado el límite seguridad.
+
+superior 
+Se ha descendido del límite 
+inferior 
+
+Se ha superado el volumen 
+máximo infundido
+
+Tecla de incremento rápida
+
+Teclas para seleccionar volumen, 
+Tecla de incremento tiempo, flujo y otros valores.
+
+Nota: Las teclas de incremento y 
+Teclas de disminución rápido se han 
+selección Tecla de disminución programado con diferentes 
+
+niveles que corresponden a los 
+Tecla de disminución diferentes estándares de 
+rápida volumen de bolsas y botellas.
+
+Acceso rápido a valores 
+máximos  + 
+
+Acceso rápido a valores 
+mínimos  + 
+
+Volumen infundido
+
+Modo Flujo (ml/h)
+
+Modo Tasa de dosis
+El menú da acceso a las 
+
+MENÚ Pantalla de programación opciones de infusión 
+de rampa seleccionadas por el usuario.
+Pantalla de programación 
+secuencial
+Bolus programado
+
+Primario/Secundario
+3481-4_nu_volumat_MC_agilia_ES 41
+
+
+
+Presión
+
+Volumen a infundir
+
+Paciente 
+
+Vida batería
+
+Micro/Macro
+
+Fecha evento
+
+Modo programación
+El menú da acceso a las 
+
+MENÚ Mantenimiento opciones de infusión 
+seleccionadas por el usuario.
+
+Nivel sonido
+
+Fecha/Hora
+
+Teclado bloqueado
+
+Pausa
+
+Biblioteca drogas
+
+Modo Noche
+
+Aviso
+
+Este símbolo representa un flujo 
+Gotas por minuto
+
+expresado en gotas por minutos.
+
+OTROS Modo Secundario
+
+Dosis de carga
+42 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+La bomba Volumat MC Agilia posee un sistema de control continuo que funciona desde el momento en que 
+empieza a utilizarse la bomba. 
+Si se activa una alarma, la infusión se para y se emiten señales acústicas y visuales (LED rojos). Se muestra 
+un mensaje claro mediante palabras y pictogramas. La tecla  es efectiva durante dos minutos. Cuando se 
+corrige la causa de la alarma, las luces rojas se apagan, pero el mensaje permanece en la parte superior de la 
+pantalla como recordatorio de la causa de la alarma.
+Si se produce una prealarma o aviso, la infusión continúa su curso y se emiten señales acústicas y visuales 
+(LED naranjas). La tecla  es efectiva durante un tiempo ilimitado.
+
+Parada de 
+Sistema Mensaje Tipo Activación /  Acción
+
+infusión
+Instalar la línea Alarma SÍ Al inicio: la línea de infusión no está instalada 
+
+o la puerta está abierta.
+ Instale la línea de infusión y cierre la 
+puerta.
+
+Puerta abierta Alarma SÍ Durante la infusión o en modo STOP: la 
+puerta está abierta. 
+ Compruebe la instalación de la línea y 
+cierre la puerta.
+
+Línea Aire en línea Alarma SÍ La línea está mal colocada frente al sensor de 
+instalada instalada aire.
+
+ Compruebe la posición de la línea frente al 
+sensor de aire y cierre la puerta.
+
+Burbuja de aire Alarma SÍ Al inicio o en modo parada: se detectó una 
+burbuja de aire.
+ Elimine la burbuja con la función de purga.
+
+Alarma de aire Alarma SÍ Durante la infusión: se detectó una burbuja de 
+aire.
+ Elimine la burbuja con la función de purga.
+
+OCS fallido Alarma SÍ El sistema de control OCS ha detectado un 
+fallo.
+ Compruebe la instalación de la línea y el 
+
+OCS
+correcto estado de la puerta y de la línea. Si 
+el problema no se resuelve, póngase en 
+contacto con el departamento de posventa.
+6. Alarmas y características 
+de seguridad
+3481-4_nu_volumat_MC_agilia_ES 43
+
+
+
+Parada de 
+Sistema Mensaje Tipo Activación /  Acción
+
+infusión
+Flujo intermitente Atención NO El flujo ha sido modificado mediante las teclas 
+
+pero no ha sido confirmado.
+ Compruebe el flujo y confirme 
+pulsando OK.
+
+Pre-alarma fin Pre- NO El VAI restante es menor al 5% del VAI 
+infusión alarma configurado inicialmente o faltan 5 minutos o 
+
+5 ml para llegar al VAI previsto. 
+
+Infusión  Compruebe que el volumen del 
+contenedor se corresponde con el VAI 
+restante. Si es necesario, prepare otro 
+contenedor para una nueva secuencia de 
+infusión.
+Si trabaja con un sensor de gotas, la 
+prealarma de fin de infusión puede inhibirse y 
+configurarse en las opciones de Servicio 
+[Par 31].
+
+Pre-alarma de fin Atención NO "Prealarma de fin de infusión" ha sido 
+de infusión deshabilitada en la opción de Servicio [Par 
+deshabilitada 31].
+
+ Pulse OK para reconocerla.
+
+Infusión Alarma fin de Alarma Stop/MVA El VAI se ha completado. Se ha activado la 
+infusión función MVA especificada en la configuración; 
+
+consulte las opciones de Usuario [Usuario 5], 
+página 52.
+ Pulse Stop para configurar nuevos 
+parámetros de infusión (en caso necesario).
+44 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Parada de 
+Sistema Mensaje Tipo Activación /  Acción
+
+infusión
+Incremento Atención NO La presión de la línea está aumentando. Este 
+presión (DPS) aviso puede seleccionarse como una opción 
+
+en [Usuario 4], consulte la página 52.
+ Compruebe si la línea de infusión está 
+ocluida (llave de tres vías, catéter, 
+acodamiento en la línea, ...).
+
+Prealarma de Prealarma NO La presión en la línea ha llegado a 50 mmHg 
+oclusión por debajo del umbral programado.
+
+ Compruebe la línea de infusión. 
+Ajuste el umbral de presión correcto.
+
+Oclusión distal Alarma SÍ La presión en la línea ha alcanzado el nivel 
+de umbral (consulte la página 34). 
+ Compruebe si la línea de infusión está 
+ocluida (llave de tres vías, catéter, 
+
+Presión acodamiento en la línea). En caso necesario, 
+reajuste el umbral de presión en relación con 
+el flujo.
+
+Oclusión proximal Alarma SÍ Sólo sin sensor de gotas. La presión en la 
+parte superior de la línea es demasiado baja. 
+ Compruebe el clamp de rodillo. 
+Compruebe el contenedor y la línea. 
+Compruebe la altura del contenedor. 
+Compruebe si hay pliegues en la línea en la 
+zona del tapón de entrada de aire (si es una 
+botella).
+
+Caída de presión Atención NO Caída de presión en la línea de infusión. Este 
+(DPS) aviso puede seleccionarse como una opción.
+
+ Compruebe la conexión Luer-Lock inferior 
+y el correcto estado de toda la línea.
+
+Verifique Atención NO Antes de iniciar la infusión secundaria, se 
+instalación línea: debe verificar la instalación de la línea:
+
+Secundaria: La línea secundaria debe estar abierta. La 
+abierta línea primaria debe estar cerrada en el modo 
+Primaria:cerrad manual. La bolsa primaria debería estar más 
+
+Secundario a o más baja baja en el modo automático.
+Infusión primaria: Atención SÍ Al finalizar la infusión secundaria, se debe 
+
+cierre la línea (manual) verificar la instalación de la línea.
+secundaria NO  Siga las instrucciones y reconozca 
+abra la línea (automático) presionando .
+primaria
+3481-4_nu_volumat_MC_agilia_ES 45
+
+
+
+Parada de 
+Sistema Mensaje Tipo Activación /  Acción
+
+infusión
+Pre-alarma batería Pre- NO Batería baja. 
+
+alarma  Conecte el dispositivo a la red eléctrica.
+Alarma batería Alarma SÍ Batería descargada.
+
+ La bomba se apagará automáticamente 
+Batería
+
+dentro de cinco minutos. Conecte la bomba a 
+la red eléctrica inmediatamente.
+
+Batería vacía Alarma SÍ Conecte la bomba a la red eléctrica y espere 
+hasta que se recargue la batería.
+
+Desconexión red Atención NO Se ha desconectado de la red eléctrica.
+eléctrica  Pulse el botón de silencio para confirmar 
+
+el reconocimiento de la alarma y verifique que 
+Red la carga de la batería es suficiente para la 
+eléctrica duración prevista de la infusión. Si la 
+
+desconexión no ha sido intencionada, 
+compruebe el cable de conexión a la red 
+eléctrica.
+
+Conectar sensor Alarma SÍ Sólo en el caso de que el sensor de gotas sea 
+de gotas obligatorio (consulte la página 54). Al inicio: el 
+
+sensor de gotas no está conectado. 
+ Conecte el sensor de gotas a la bomba y a 
+la cámara de goteo (consulte la página 39).
+
+Sin sensor de Alarma SÍ Sólo en el caso de que el sensor de gotas sea 
+gotas obligatorio (consulte la página 54). Durante la 
+
+infusión o en modo STOP: el sensor de gotas 
+no está conectado. 
+
+Sensor  Conecte el sensor de gotas a la bomba y a 
+de gotas la cámara de goteo (consulte la página 39).
+
+Flujo inferior Alarma SÍ El flujo detectado por el sensor de gotas está 
+por debajo del flujo configurado.
+ Compruebe el contenedor. Compruebe el 
+clamp de rodillo. Compruebe que las gotas de 
+líquido mantienen un ritmo de ~ 20 gotas/ml y 
+que la cámara de goteo se mantiene en 
+posición vertical. Compruebe que el sensor 
+de gotas está fijado según se indica en 
+la página 39.
+46 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Parada de 
+Sistema Mensaje Tipo Activación /  Acción
+
+infusión
+Sobre flujo Alarma SÍ El flujo detectado por el sensor de gotas está 
+
+por encima del flujo configurado.
+ Abra la puerta y controle la posición de la 
+línea. Compruebe la posición del sensor de 
+gotas. Compruebe la temperatura del líquido. 
+
+Sensor Compruebe que las gotas de líquido 
+de gotas mantienen un ritmo de ~ 20 gotas/ml. 
+
+Flujo incontrolado Alarma SÍ Al inicio o en modo STOP: el sensor de gotas 
+ha detectado un flujo libre. 
+ Cierre el clamp de rodillo. Compruebe el 
+sensor de gotas y la instalación de la línea.
+
+Flujo alto Atención NO El valor está por encima del límite superior 
+según los parámetros de droga definidos en 
+
+Vigilant® la biblioteca.
+Drug’Lib Flujo bajo Atención NO El valor está por debajo del límite inferior 
+
+según los parámetros de droga definidos en 
+la biblioteca.
+
+Er - mensaje Alarma SÍ Alarma técnica. 
+Error (Er01, Er02, etc.)  Póngase en contacto con su técnico 
+técnico especializado o con el departamento de 
+
+posventa.
+
+Notas:
+Cuando se selecciona un valor, debe ser confirmado. Si este valor no se confirma, parpadeará durante tres 
+segundos tras pulsar la última tecla y un sonido se activará 12 segundos más tarde.
+El volumen máximo que se puede infundir en caso de error único es 1 ml.
+Si está usando un sensor de gotas, el flujo está controlado a -50%, +100%.
+En caso de alarma técnica, anote el mensaje de error (ErXX). Cierre el clamp de rodillo, desconecte el 
+dispositivo de la red eléctrica y párelo pulsando la tecla  (se necesitan entre 10 y 15 segundos). Si la alarma 
+persiste cuando el dispositivo se vuelve a conectar, sin haberlo usado con el paciente, póngase en contacto con 
+los técnicos especializados de su centro o con el departamento de posventa.
+3481-4_nu_volumat_MC_agilia_ES 47
+
+
+
+Operación Tecla
+
+Acceso al menú o salida del menú
+
+Seleccionar
+
+Confirmar  (corresponde a  en la pantalla)
+
+Seleccionado  / No seleccionado 
+
+Menú permanente
+Función Descripción Operación Símbolo
+
+Volumen a infundir Ajuste del VAI durante la  Ajuste nuevo
+infusión
+
+Volumen infundido Volumen total infundido  Borrado de volumen infundido 
+
+Presión Ajuste de presión límite y  Presión límite
+activación del modo DPS  Activación modo DPS
+
+Vida batería Visualizar vida de batería  Horas y minutos restantes para el 
+flujo seleccionado
+
+Pausa Ajuste duración de pausa  Ajuste de horas y minutos y 
+activación del retardo de inicio del VAI
+
+Teclado bloqueado Bloqueo o desbloqueo del  Bloqueo del teclado
+teclado
+7. Menú
+48 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Menú seleccionado en modo Opciones
+Función Descripción Operación Símbolo
+
+Mantenimiento Información sobre  Fecha del mantenimiento
+mantenimiento, versión,  SN (número de serie)
+duración de  Versión de software, etc.
+funcionamiento, etc.
+
+Fecha evento Almacena hasta  Presión límite
+1.500 eventos  Flujo, etc.
+
+Nivel sonido Ajuste del nivel de sonido  7 niveles posibles
+
+Micro/Macro Tipo de valores  Flujo micro desde 0,1 a 100 ml/h
+Función accesible sólo en visualizados (valores con un decimal)
+modo STOP  Flujo macro desde 1 a 1.500 ml/h 
+
+(valores enteros)
+Programación de fecha y 
+
+Fecha/Hora  dd/mm/aaaa  h/min
+hora
+
+Modo Noche Reduce el brillo de la  Para configurar el modo Noche, 
+pantalla y de las luces consulte las opciones de Servicio 
+indicadoras [Par 18] en la página 53.
+
+Modo programación Selección de otro modo  Sin nombre de droga
+de programación  Etiqueta de droga
+
+ Vigilant Drug’Lib
+ Flujo (ml/h)
+ Tasa de dosis
+
+Flujo (ml/h) Selección del modo de  Volumen/Tiempo/Flujo
+infusión requerido  Volumen/Flujo
+
+ Volumen/Tiempo
+ Tiempo/Flujo
+ Sólo flujo
+ Rampa
+ Secuencial
+ Gotas/min
+
+Tasa de dosis Selección del modo de  Volumen/Tiempo/Flujo
+infusión requerido  Volumen/Flujo
+
+ Volumen/Tiempo
+ Tiempo/Flujo
+ Sólo flujo
+
+Bolus programado Programación de un bolus  Volumen o dosis
+ Flujo
+3481-4_nu_volumat_MC_agilia_ES 49
+
+
+
+Función Descripción Operación Símbolo
+Primario/Secundario Programación de una  Los parámetros que hay que 
+
+infusión secundaria configurar son los mismos que en el 
+modo Primario
+
+Paciente Información sobre los  Peso cuando la unidad se expresa 
+parámetros del paciente. en kg
+Selección de un nuevo  Superficie corporal cuando la unidad 
+paciente se expresa en m2
+
+Biblioteca drogas Información sobre la  Nombre de la biblioteca, autor, 
+Función accesible sólo en biblioteca de drogas cantidad de drogas
+modo STOP preseleccionada  Lista de drogas con parámetros 
+
+predefinidos
+Duración aviso Ajuste de la duración del   Ajuste del tiempo de retardo
+
+aviso  Activación/Desactivación
+
+PRECAUCIÓN: El menú puede cambiar dependiendo de los parámetros seleccionados en las opciones de 
+Servicio y Usuario (consulte la "Opciones", página 51).
+50 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+8. Opciones
+
+Las siguientes opciones de operación diferentes, pueden seleccionarse o no personalizando su bomba 
+Volumat MC Agilia.
+
+Operación Tecla
+
+Acceso a Opciones  +  (Con el dispositivo desconectado, pulsar 
+simultáneamente ambas teclas <ON> y <MENÚ>)
+
+Selección de opción
+
+Confirmar  (corresponde a  en la pantalla)
+
+Seleccionado  / No seleccionado 
+
+Los valores seleccionados durante el uso se memorizan al apagar el dispositivo o después de su 
+programación. Para volver a los menús habituales, apague el dispositivo.
+
+Las opciones de usuario se seleccionan en función de las opciones de Servicio autorizadas (consulte la tabla 
+de Servicio en la página 53).
+
+Opción Función Selección Descripción
+Usuario [Usuario 1] Opciones de Visualización permanente del 
+
+ Batería
+pantalla símbolo de la batería
+Selección de diferentes  Presión Visualización del símbolo de presión
+símbolos que pueden El logo Vigilant tiene prioridad sobre 
+visualizarse en la pantalla  Prioridad del logo Vigilant
+
+el de presión
+[Usuario 2] Opciones de  Nivel sonido Ajuste del nivel de sonido
+menú Visualización de la información de 
+
+ Mantenimiento
+Selección de diferentes mantenimiento
+opciones accesibles  Fecha evento Visualización del registro de sucesos
+desde la tecla <Menú>   Fecha/Hora Ajuste de la fecha y la hora
+
+ Aviso Configuración de un aviso
+Visualización de la biblioteca de 
+
+ Biblioteca de drogas
+drogas
+
+ Macro/Micro Selección modo Macro o Micro
+Selección del modo de 
+
+ Modo programación
+programación
+
+ Flujo (ml/h) Selección del modo Flujo en ml/h
+ Tasa de dosis Selección del modo Tasa de dosis
+ Bolus programado Ajuste de un bolus programado
+ Paciente Información sobre el paciente
+
+Selección de infusión primaria o 
+ Primario/Secundario
+
+secundaria
+
+[Usuario 3] Contraste  Ajuste del contraste de la pantalla. Use las teclas de incremento 
+y disminución rápido.
+3481-4_nu_volumat_MC_agilia_ES 51
+
+
+
+Opción Función Selección
+
+Usuario [Usuario 4] Presión
+
+Modo  Modo variable: Un valor de  Modo de 3 niveles: 3 límites fijos 
+presión inicial que puede de presión que pueden seleccionarse 
+regularse durante la infusión durante la infusión 
+
+DPS  SÍ/NO  SÍ: el DPS puede activarse 
+(Dynamic Presión System) durante la infusión 
+
+ La última activación guardada del DPS se pasa automáticamente a 
+memoria para el siguiente inicio
+
+Máxima presión para el  Define los parámetros de  Define el valor máximo de presión 
+modo Macro/Micro presión para los modos Micro permitido durante la infusión
+
+(300 a 750 mmHg) y Macro 
+(500 a 750 mmHg)
+
+Límite de almacenamiento  La casilla de verificación se  El último ajuste guardado del 
+usa para validar el límite de presión durante la infusión 
+almacenamiento de los se memoriza automáticamente para 
+parámetros de presión el próximo inicio o debe introducirse 
+
+manualmente en el inicio siguiente.
+Si DPS = SÍ: Umbral de  Seleccione un nivel de presión para que se genere un aviso cuando 
+caída la presión esté por debajo de dicho nivel.
+Si DPS = SÍ: Umbral de  Seleccione un nivel de presión para que se genere un aviso si la 
+incremento presión supera este nivel comparado con la presión media de la línea.
+
+ Nota: Para conocer valores y detalles, consulte "Gestión de la 
+presión"‚ página 59
+
+Almacenamiento DPS  La casilla de verificación se  El último ajuste guardado del 
+usa para validar el DPS durante la infusión se memoriza 
+almacenamiento de la función automáticamente para el próximo 
+DPS inicio o debe introducirse 
+
+manualmente en el inicio siguiente
+[Usuario 5] KVO  KVO: DESACTIVADO,  Duración del silencio
+(MVA: Mantener vena 1 a 20 ml/h (5 min a 12 h)
+abierta)
+[Usuario 7] Fecha/hora  Selección de fecha:  Selección de hora: h/min
+
+dd/mm/aaaa
+[Usuario 8] Idioma  Francés / Inglés / Alemán / Español
+
+[Usuario 9] Modo de  Pulsar Enter para  Pulsar OK para validar el modo 
+programación seleccionar el modo de de programación por defecto al inicio
+
+programación que se usará de 
+forma predeterminada al inicio
+
+[Usuario 10] Modo de  Pulsar Enter para  Pulsar OK para validar el modo 
+infusión seleccionar el modo de infusión de infusión por defecto al inicio
+
+que se usará de forma 
+predeterminada al inicio
+
+[Usuario 11] Macro/Micro  Pulsar Enter para  Pulsar OK para validar el modo 
+seleccionar el modo que se por defecto al inicio
+usará de forma predeterminada 
+al inicio
+
+[Usuario 12] Historial  Historial de flujo  Historial de presión
+gráfico
+52 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Las opciones de Servicio son opciones autorizadas que pueden seleccionarse o no en opciones de Usuario (consulte 
+la tabla anterior).
+
+Opción Función Selección
+Servicio Código Servicio  Código:  (0200 predeterminado)
+
+ Use las teclas de subir y/o bajar, luego OK para cambiar dígito
+[Par 1] Tipo de sonido  1 tono  2 tonos  Sonido de tecla
+
+ Para silencio preventivo
+ Duración del silencio entre dos avisos (de 0 a 5 segundos)
+
+[Par 2] Nivel de sonido  7 niveles de sonido disponibles
+[Par 3] Parámetros  Droga y parámetros: última droga y parámetros se visualizan al 
+iniciales inicio
+
+ Pantalla de misma infusión: si está activado, los últimos parámetros 
+de infusión (VAI, Tiempo, Flujo, VI) son recopilados al encender, para 
+contabilizar la duración de la línea de infusión
+ Volumen infundido: borrar (VI=0 al arrancar), guardar (acumular VI 
+al arrancar)
+
+[Par 4] Flujos máximos Seleccione para los modos Primario y Secundario:
+ Infusión macro (ml/h)
+ Infusión micro (ml/h)
+
+[Par 9] Tasas bolus y dosis 
+de carga
+Bolus manual  Macro máximo (ml/h)  Micro máximo (ml/h)
+
+ Almacenamiento: seleccione esta opción para guardar el flujo del 
+último bolus
+ Flujo macro (ml/h)  Flujo micro (ml/h)
+
+Bolus programado y dosis  Macro máximo  Micro máximo
+de carga
+[Par 10] Nombre servicio  Pulsar las teclas de subir y/o bajar para seleccionar los caracteres 
+[Par 11] Nombre del alfanuméricos. Pulsar OK después de cada selección.
+biomédico
+[Par 12] Código de usuario  Código obligatorio de dos dígitos para establecer códigos en el menú 
+
+de usuario
+[Par 13] Alarma de  Activación o desactivación del aviso de desconexión de la red 
+desconexión de la red eléctrica
+eléctrica
+[Par 17] Biblioteca de  Selección de una biblioteca de drogas entre un máximo de cuatro
+drogas
+[Par 18] Modo Noche  Brillo de pantalla  Luces verdes  Sin sonido de tecla
+
+atenuado atenuadas
+ Modo Manual: conmutación  Modo Auto: conmutación 
+manual de un modo a otro automática de un modo a otro de 
+
+acuerdo con el rango de tiempo 
+configurado
+
+ Seleccione el modo Noche.  Desde (hh:mm)
+Use el botón para cambiar el  A (hh:mm)
+modo.
+3481-4_nu_volumat_MC_agilia_ES 53
+
+
+
+Opción Función Selección
+
+Servicio [Par 19] Funciones  Bolus manual  Ver burbujas  Purga de línea
+autorizadas de aire
+
+ Dosis de carga  Bolus programado
+[Par 20] Unidades  Unidades de dilución (Seleccionar/Deseleccionar)
+autorizadas  Unidades de dosis (Seleccionar/Deseleccionar)
+[Par 21] Modos  Ultimo modo: Al encender, el  Modo de interrogación: 
+visualizados dispositivo funcionará con el último Al encender, el dispositivo 
+
+modo de programación usado preguntará qué modo de 
+programación quiere usar
+
+[Par 22] Modos  Etiqueta de droga (o bien)  Vigilant Drug’Lib
+autorizados
+[Par 23] Parámetros del  Seleccione los parámetros predeterminados del paciente
+paciente
+[Par 24] Modo Macro/  Macro: la infusión  Micro: la  Almacenamiento: 
+Micro se define mediante infusión se define en el momento del 
+
+incrementos de 1 ml mediante encendido se 
+incrementos de utilizará la última 
+0,1 ml selección
+
+  
+[Par 25] Pantalla de  La pantalla "Misma terapia" aparece al final de la infusión para reiniciar 
+misma terapia la infusión con los últimos parámetros. Esta función está disponible en el 
+
+modo Tasa de dosis.
+[Par 27] Parámetros del  Parámetros en modo Macro  Parámetros del modo Micro 
+sensor de aire (consulte la información de abajo) (consulte la información de 
+
+abajo)
+- Volumen Total/15 min (µl): por encima de este volumen de aire, se activa 
+la alarma (se puede ajustar desde 10 a 2.000 µl).
+- Filtro de burbujas (µl): es el tamaño de burbuja mínimo que se tiene en 
+cuenta (se puede ajustar desde 0 a 250 µl).
+
+[Par 28] Arranque al abrir  Arranque automático al abrir la puerta (Seleccionar/Deseleccionar) 
+la puerta cuando cuando el dispositivo está conectado a la red.
+[Par 29] Modo de  Define los modos de infusión disponibles en Flujo ml/h y en Tasa de 
+infusión dosis
+
+ Volumen/Tiempo/Flujo  Volumen/Flujo
+ Volumen/Tiempo  Tiempo/Flujo
+ Sólo flujo  Almacenamiento: guarda el 
+
+último modo de infusión
+ Gotas/min  Rampa  Secuencial 
+(en ml/h) (en ml/h) (en ml/h)
+
+[Par 30] Sensor de gotas  Obligatorio Para el modo Primario/Secundario: 
+(Seleccionar/  Sensor de gotas en primario 
+Deseleccionar) (Seleccionar/Deseleccionar)
+
+ Sensor de gotas en secundario 
+(Seleccionar/Deseleccionar)
+54 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Opción Función Selección
+
+[Par 31] Pre-alarma de fin  Define los parámetros de pre-alarma
+de infusión Nota: Los parámetros de las prealarmas se pueden reajustar.
+
+Sin embargo, se debería considerar detenidamente la siguiente 
+situación: la prealarma de fin de infusión no debería estar desactivada 
+en caso de fármacos de vida muy corta o para infusión con botellas 
+rígidas.
+ Duración: desde 0 a 30 min.  % Volumen: desde 0 a 15% 
+antes del fin de infusión del VAI restante
+Nota: Sólo se puede ajustar hacia 
+abajo hasta llegar a 0 (desactivar) 
+con el software Partner Agilia.
+ Volumen: desde 0 a 50 ml del  Con sensor de gotas: activar 
+VAI restante o desactivar la prealarma cuando 
+
+se usa sensor de gotas
+[Par 33] Gotas/min.  Flujo volumétrico  Permite  Flujo en gotas/min
+
+seleccionar flujos 
+regulables
+
+[Par 34] Modificación del  Permite modificar el flujo sólo en el modo STOP
+flujo
+
+Mant. Mantenimiento  Código: XXXX (póngase en contacto con nuestro servicio técnico)
+3481-4_nu_volumat_MC_agilia_ES 55
+
+
+
+Este protocolo permite realizar una comprobación rápida del funcionamiento de la bomba.
+
+Número de serie de la bomba Volumat MC Agilia Nombre: ________________________________
+(ID/N): Servicio: ________________________________
+   _____________________________ Fecha: ________________________________
+
+Acciones SÍ  NO 
+1. Compruebe el estado del dispositivo: 
+
+- ausencia de marcas de impacto y ruidos de piezas sueltas (déle la vuelta al 
+dispositivo), 
+
+- presencia de todas las etiquetas, legibilidad de las mismas y cable de red eléctrica.
+
+2. Con el dispositivo desconectado de la red eléctrica, pulse la tecla :
+- compruebe el funcionamiento de la pantalla y las luces indicadoras, 
+- compruebe que el funcionamiento con batería está señalizado.
+
+3. Instale la línea sin líquido:
+
+
+- cierre la puerta y compruebe si aparece el mensaje: "burbuja de aire".
+4. Retire la línea. Llénela con líquido. Instale la línea incorrectamente con el segmento 
+de impulsión fuera de la bomba. 
+
+- compruebe si aparece el mensaje: "Instalar la línea".
+5. Vuelva a instalar la línea correctamente como se describe en la guía de usuario:
+
+
+- compruebe que la prueba OCS sea correcta.
+
+6. Ajuste los parámetros de infusión - 500 ml/h (sin conectar al paciente)
+
+
+- inicie la infusión.
+7. Cierre la parte superior de la línea con el clamp de rodillo:
+
+- compruebe que la alarma de oclusión superior se activa en menos de 15 segundos, 
+- compruebe la alarma visual y acústica. 
+
+8. Abra el clamp de rodillo. 
+9. Inicie la infusión (500 ml/h) y cierre el tramo inferior de la línea:
+
+
+- compruebe que la alarma de oclusión se activa en menos de 15 segundos.
+
+10. Abra la parte inferior de la línea. Abra la puerta:
+
+
+- compruebe que no caigan más de tres gotas en la cámara de goteo.
+11. Conecte el dispositivo a la red eléctrica:
+
+
+- compruebe que se enciende el indicador de la red eléctrica.
+
+El funcionamiento del dispositivo es correcto si todos los controles 
+son satisfactorios. 
+
+Firma
+
+Nota: Si una o más pruebas no estuviesen en conformidad, póngase en contacto con el departamento 
+apropiado, nuestro Servicio Posventa o nuestro Servicio de Atención al Cliente.
+9. Prueba de usuario
+56 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Rangos de flujo
+Modos Rangos de flujo
+
+Flujo de infusión De 1 a 1.500 ml/h, El flujo máximo de infusión puede 
+Macro
+
+(ml/h) con incrementos de 1 ml/h configurarse en opciones de Servicio 
+De 0,1 a 100 ml/h, [Par 4], página 53
+
+Micro
+con incrementos de 0,1 ml/h
+
+Flujo manual de Bolus De 200 a 1.500 ml/h, El flujo máximo de infusión puede 
+Macro
+
+(ml/h) con incrementos de 50 ml/h configurarse en opciones de Servicio 
+De 200 a 1.500 ml/h [Par 9], página 53
+
+Micro
+con incrementos de 50 ml/h
+
+Bolus programado y De 1 a 1.500 ml/h La configuración es común a los dos 
+dosis de carga Macro
+
+con incrementos de 1 ml/h modos. El flujo máximo de infusión 
+De 0,1 a 1.500 ml/h, puede configurarse en opciones de 
+
+Servicio [Par 9], página 53.
+Micro con incrementos de 0,1 ml/h 
+
+desde 0,1 hasta 100 ml/h y de 
+1 ml/h desde 100 a 1.500 ml/h
+
+Flujo de infusión para De 1 a 1.000 ml/h, con El flujo máximo de infusión puede 
+Macro
+
+una infusión incrementos de 1 ml/h configurarse en opciones de Servicio 
+secundaria De 0,1 a 1.000 ml/h, con [Par 4], página 53.
+
+incrementos de 0,1 ml/h desde 
+Micro 0,1 a 99,9 ml/h y con 
+
+incrementos de 1 ml/h desde 
+100 a 1.000 ml/h
+
+Caso especial: flujo Macro 2 ml/h No regulable
+estable mínimo en el 
+modo Rampa Micro 2 ml/h
+
+Flujo de purga (ml/h) Todos 
+los Flujo máximo (1500 ml/h)
+
+modos
+
+Volumen a infundir (VAI)
+Modos Rango de volumen
+
+Volumen a infundir en Macro De 1 a 9.999 ml, con incrementos de 1 ml.
+"ml/h" y modo "tasa de Micro De 0,1 a 2.000 ml, con incrementos de 0,1 ml desde 0,1 hasta 99,9 ml y 
+dosis" de 1 ml desde 100 a 2.000 ml.
+Volumen a infundir Macro De 1 a 2.000 ml con incrementos de 1 ml
+para una infusión (El valor máximo puede configurarse con un ordenador)
+secundaria Micro De 0,1 a 1.000 ml con incrementos de 0,1 ml desde 0,1 hasta 99,9 ml y 
+
+de 1 ml desde 100 a 1.000 ml.
+(El valor máximo puede configurarse con un ordenador)
+
+Bolus programado y Macro De 1 a 100 ml, con incrementos de 1 ml.
+dosis de inducción Micro De 0,1 a 50 ml, con incrementos de 0,1 ml.
+
+Flujo KVO (Mantener Vena Abierta)
+Por defecto: 1 ml/h (Ajustable desde 0 a 20 ml/h). Activado cuando se alcanza el VAI.
+Nota: Si el KVO es mayor que el flujo programado, la infusión continua al flujo programado.
+10. Características
+3481-4_nu_volumat_MC_agilia_ES 57
+
+
+
+Rango de dosis 
+Rango de configuración
+
+Datos del paciente
+Peso (kg)  Incremento de 0,01 desde 0,25 a 0,99
+
+ Incremento de 0,1 desde 1 a 9,9
+ Incremento de 1 desde 10 a 250
+
+Superficie (m2)  Incremento de 0,01 desde 0,05 a 4,5
+Talla (cm)  Incremento de 1 desde 20 a 250
+Dilución 
+(Unidades/X ml)
+X ml  Incremento de 1 desde 1 a 2000 (El valor máximo puede configurarse con un 
+
+ordenador)
+Unidades  Incremento de 0,01 desde 0,01 a 9,99
+
+ Incremento de 0,1 desde 10 a 99,9
+ Incremento de 1 desde 100 a 9999
+
+Tasa de dosis  Incremento de 0,01 desde 0,01 a 9,99
+ Incremento de 0,1 desde 10 a 99,9
+ Incremento de 1 desde 100 a 9999
+
+Tiempo de infusión
+Rango del tiempo de infusión
+
+Dosis de carga De 00 min 01 a 59 min 59
+
+Bolus programado Sin límite. Por encima de una hora, la pantalla deja de indicar el tiempo 
+exacto e indica ">1 h".
+
+Modo Rampa De 0 h 01 min a 48 h 00 min.
+
+Otros modos de programación De 0 h 01 min a 168 h 00 min.
+
+Biblioteca de drogas
+En el dispositivo se pueden almacenar hasta cuatro bibliotecas. Cada una puede contener hasta 240 fármacos. 
+Esta capacidad total puede estar limitada por el número de comentarios y otros campos. Estas bibliotecas se 
+configuran con el software Vigilant® Drug'Lib.
+
+Detección de aire
+Ajuste por defecto: 250 µl detectados como una sola burbuja o volumen de aire acumulado en un periodo de 
+15 minutos, para burbujas de aire mayores de 50 µl. 
+Resolución del sensor: ~ 10 µl.
+Para pacientes delicados (pacientes críticos, neonatos, ect.), recomendamos disminuir el umbral de detección 
+de aire o usar un filtro de eliminación de aire acoplado o como parte de la línea de infusión Volumat.
+
+Intervalo de cambio de la línea de infusión
+Las propiedades mecánicas de la línea de infusión en asociación con la bomba han sido diseñadas para 
+mantener las prestaciones de bombeo para un máximo de 10 L, dentro de un periodo límite de 96 horas. Sin 
+embargo, recomendamos reemplazar la línea de administración cada 24 horas por razones microbiológicas, a 
+menos que sean necesario aplicables otros protocolos o normas locales. La línea de infusión debe ser 
+desconectada del acceso IV de acuerdo con los procedimientos locales de su centro hospitalario.
+58 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Precisión
+Precisión del flujo ± 5% en 96 h con una infusión 
+nominal de 10 litros como máximo
+Bolus manual ± 5% o ± 0,2 ml En conformidad con 
+Precisión con una la normativa NF EN/IEC 60601-2-24.
+
+± 5% en 96 h con un máximo
+contrapresión de 
+
+de 10 litros infusión
+±13.33 kPa
+
+Pausa programable
+Pausa programable Desde 1 minuto a 24 h Incrementos de 1 minuto.
+
+Gestión de la presión 
+Modo variable Incrementos: 25mmHg (50-250 mmHg).
+
+A Presión Desde 50 a Incrementos: 50mmHg (250-750 mmHg).
+máxima (B) 750 mmHg Define la presión máxima autorizada 
+
+B durante la infusión.
+Nivel de 50 mmHg por debajo Nota: Si la presión máxima está fijada en 
+prealarma (A) de la presión máxima 50 mmHg, la prealarma no está activada.
+
+Modo 3 niveles Alto 750 mmHg Estos valores se proporcionan a modo de 
+Medio 400 mmHg ejemplo y pueden configurarse en 
+
+opciones de Usuario [Usuario 4], 
+Bajo 100 mmHg página 52.
+
+DPS Aumento de 
+Anticipa una oclusión durante la infusión.
+
+(Dynamic Pressure presión
+System) Una disminución de presión puede indicar que la línea se ha 
+
+Caída de presión
+desconectado o que tiene pérdidas.
+
+Precisión: la precisión en la activación del umbral de presión es de 75 mmHg 
+o  15%.
+Nota: 1 bar = 750 mmHg = 1.000 hPa.
+
+Tiempo de respuesta de la alarma de oclusión
+Umbral de alarma de oclusión 
+
+Flujo
+100 mmHg 300 mmHg 400 mmHg 750 mmHg
+
+1 ml/h 7’ 22’ 34’ 58’
+
+25 ml/h 15" 45" 56" 1’ 52"
+
+100 ml/h 2" 9" 12" 27"
+
+Estos valores pueden oscilar  20% dependiendo del dispositivo y de la línea de infusión.
+
+Volumen de Bolus al liberar la presion de oclusión
+Flujo Volumen de bolus
+
+< 100 ml/h  0,2 ml
+
+> 100 ml/h  0,3 ml
+3481-4_nu_volumat_MC_agilia_ES 59
+
+
+
+Reglas de cálculo
+Primeros parámetros de ajuste 
+
+Durante la infusión: 
+después de encender o en modo 
+
+pulse las teclas de selección
+STOP (parada)
+Si se modifica V, T se calcula según la Se modifica F y se calcula T según la fórmula T = V/F
+fórmula T = V/F 
+
+V/T
+Si se modifica T, F se calcula según la 
+fórmula F = V/T 
+Si se modifica V, T se calcula según la Se modifica F y se calcula T según la fórmula T = V/F
+fórmula T = V/F 
+
+V/F
+Si se modifica F, T se calcula según la 
+fórmula T = V/F
+Si se modifica T, V se calcula según la Se modifica F y se calcula T según la fórmula T = V/F
+fórmula V = F x T 
+
+T/F
+Si se modifica F, V se calcula según la 
+fórmula V = F x T
+Si se modifica V, T se calcula según la Se modifica F y se calcula T según la fórmula T = V/F
+fórmula T = V/F 
+Si se modifica T, F se calcula según la 
+
+V/T/F
+fórmula F = V/T 
+Si se modifica F, T se calcula según la 
+fórmula T = V/F
+
+V = Volumen a infundir
+T = Tiempo de infusión
+F = Flujo
+
+En modo Rampa, cada flujo de la rampa representa X*1/10 del flujo estable (para X entre 1 y 10).
+
+Nota 1: el valor calculado para macro infusión se visualiza redondeado según las siguientes reglas.
+
+Valor 
+Ejemplos
+
+calculado
+V Redondeado al ml superior Si se calcula V = 1,3 ml, se visualiza V = 2 ml
+T Redondeado al minuto más Si se calcula T = 1 h 12 min 32 seg, se visualiza T = 1 h 13
+
+cercano
+F Redondeado a  0,5 ml/h Si se calcula F = 42,52 ml/h, se visualiza F = 43 ml/h
+
+Si se calcula F = 42,39 ml/h, se visualiza F = 42 ml/h
+Flujo de infusión real = flujo calculado 
+
+Nota: En caso de las infusiones micro, el valor calculado se redondea a ± 0,05 ml/h
+60 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Unidades y reglas de conversión
+Unidades de ng, µg, mg, g mU, U, kU mEq
+
+dilución
+mmol Cal, kCal /ml, /Xml
+
+ng/h ng/kg/min ng/kg/h ng/m2/24h µg/min µg/h
+
+µg/kg/min µg/kg/h µg/m2/min µg/m2/h mg/min mg/h
+
+mg/24 h mg/kg/min mg/kg/h mg/kg/24 h mg/m2/min mg/m2/h
+Unidades de g/h g/kg/min g/kg/h g/m2/min g/m2/h g/m2/24 h
+
+Tasa de 
+dosis mU/min mU/h mU/kg/min mU/kg/h mU/m2/min mU/m2/h
+
+U/min U/h U/kg/h U/kg/24 h U/m2/min U/m2/h
+
+mEq/min mEq/h mEq/kg/min mEq/kg/h mEq/m2/min mEq/m2/h
+
+mEq/m2/24 h mmol/h kcal/h kcal/24 h kcal/kg/h kcal/kg/24 h
+
+Nota: Estas dos listas de unidades se preseleccionan en la opción de Servicio [Par 20] (consulte la página 54).
+
+1 µ unidad = 1.000 n unidades
+1 m unidad = 1.000 µ unidades
+
+1 k unidad = 1.000 unidades 
+1 unidad/h = 24 unidades/24 h
+1 unidad/min = 60 unidades/h
+
+Conversión de una dosis 
+ml/h = unidad/kg/h (dosis) x kg (peso)
+
+expresada en unidad/kg a un 
+unidad/ml (dilución)
+
+flujo volumétrico en ml/h
+Conversión de una dosis 
+
+ml/h = unidad/m2/h (dosis) x m2 (superf. corporal)
+Reglas de expresada unidad/m2 a un flujo 
+
+unidad/ml (dilución)
+conversión volumétrico en ml/h
+
+ml/h = unidad/h (dosis) Expresión de un 
+         unidad/ml (dilución) flujo volumétrico
+
+Conversión de una dosis 
+ml = unidad/kg (dosis) x kg (peso)
+
+expresada en unidad/kg a un 
+unidad/ml (dilución)
+
+volumen en ml
+Conversión de una dosis 
+
+ml = unidad/m2(dosis) x m2 (superficie corporal) expresada en unidad/m2 a un 
+unidad/ml (dilución) volumen en ml
+ml = unidad (dosis) Expresión de un volumen en ml
+
+         unidad/ml (dilución)
+3481-4_nu_volumat_MC_agilia_ES 61
+
+
+
+11. Características técnicas
+
+Alimentación
+ Use el cable de alimentación por red eléctrica suministrado con la bomba Volumat MC Agilia. 
+
+Alimentación Red eléctrica: 100 V - 240 V ~ / 50-60 Hz con tierra funcional.
+por red eléctrica Consumo máximo: 15 VA
+
+Fusibles de protección: 2 x 1 AT a los que se puede acceder en el compartimiento de 
+batería.
+
+Alimentación 9 Voltios continua  / Potencia > 15 Vatios
+externa Mediante el accesorio específico Fresenius Kabi conectado a una entrada de 8 pines.
+
+Batería
+Desconecte la batería antes de abrir el dispositivo. Evite cortocircuitos y temperaturas excesivas.
+En caso de desconexión prolongada, todos los parámetros del dispositivo se almacenan indefinidamente 
+excepto los datos de fecha que se pierden después de tres meses de almacenaje. Cuando se enciende la 
+bomba, se propone la introducción de una fecha nueva.
+
+Características 7,2 V 2.2 Ah - Batería de iones de litio.
+Peso Aproximadamente 100 g
+Vida de batería 8 h mínimo a un flujo intermedio de 25 ml/h y a cualquier flujo menor de 
+
+125 ml/h y más tiempo en modo noche
+Recarga de batería Bomba apagada: < 6 h - Bomba encendida: < 20 h.
+
+Puerto de comunicaciones
+El conector situado en la parte trasera del dispositivo permite diferentes funciones según el cable que se utilice: 
+comunicaciones, alimentación externa y llamada a enfermera.
+
+Llamada a enfermera Comando de salida al relé de llamada a la enfermera.
+
+Cable serie Salida TTL.
+
+Alimentación externa Entrada de 9 VCC / 15 W.
+Salida de 5 VCC / 150 mA para alimentar los accesorios de llamada a 
+
+Salida de potencia enfermera o una conexión serie.
+
+Comunicación infrarroja
+La bomba Volumat MC Agilia está equipada con una célula infrarroja situada en la parte trasera del dispositivo. 
+Permite intercambiar información con el bastidor de conexión Agilia. La información puede luego transmitirse 
+por cables de comunicación específicos.
+
+Normativas
+
+Conforme a la Directiva Médica IP22 Protección contra salpicaduras de líquidos.
+93/42/CE.  Protección contra fugas de corriente: 
+
+Parte aplicable de tipo CF con protección contra 
+Seguridad de Conforme a las normas EN/IEC la desfibrilación.
+equipos 60601-1 
+electromédicos y EN/IEC 60601-2-24.  Protección contra descargas eléctricas: 
+
+clase II.
+EMC (Compatibilidad Conforme a las normas EN/IEC 
+Electromagnética) 60601-1-2 y EN/IEC 60601-2-24.  Toma de tierra funcional.
+
+La tierra funcional está directamente conectada al enchufe para la red eléctrica. De 
+esta manera se reducen las corrientes residuales que pueden afectar a dispositivos 
+para ECG o EEG.
+62 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Dimensiones - Peso
+Al / An / F 135 x 190 x 170 mm
+
+Peso aproximadamente 2 kg
+
+Tamaño de la pantalla 70 x 35 mm
+
+Curvas de trompeta
+Las curvas de trompeta muestran la evolución de la varianza mínima y máxima de la combinación bomba/línea 
+de infusión respecto al flujo.
+El protocolo utilizado para obtener estos resultados es él que se describe en la norma EN/IEC 60601-2-24. Para 
+más información, consulte esta norma.
+Use estas curvas para determinar la precisión según la combinación entre protocolo, droga y dilución de su 
+infusión. Estos gráficos son representativos de una línea de infusión VL Volumat.
+
+Curvas de trompeta para ventanas de Curvas de flujo/tiempo: flujo inicial e instantáneo 
+observación de 2, 5, 11, 19 y 31 minutos (volumen medido cada 30 segundos)
+
+1 ml/h 1 ml/h
+
+50
+
+40 3
+2,8
+
+30 2,6
+2,4
+
+20 Precisión del límite superior (+5%) 2,2 Flujo programado
+10 2
+
+Precisión del límite superior (+5%) 1,8
+0 1,6
+
+1,4
+-10 Precisión del límite inferior (-5%) 1,2
+
+Precisión del límite inferior (-5%) 1
+-20 0,8
+
+0,6
+-30 0,4
+-40 0,2
+
+0
+-50 -0,2
+
+2 5 11 19 31 0 20 40 60 80 100 120
+
+Ventana de observación (minutos) Tiempo (minutos)
+
+25 ml/h 25 ml/h
+
+15
+50
+
+10 45
+Precisión del límite superior (+5%) Flujo programado
+
+40
+
+5 35
+Ep máx. 30
+
+0 25
+
+Ep mín. 20
+-5 15
+
+Precisión del límite inferior (-5%) 10
+-10 5
+
+0
+-15
+
+2 5 11 19 31 -5
+0 20 40 60 80 100 120
+
+Ventana de observación (minutos) Tiempo (minutos)
+
+% de varianza del flujo nominal
+% de varianza del flujo nominal
+
+Flujo (ml/h)
+Flujo (ml/h)
+3481-4_nu_volumat_MC_agilia_ES 63
+
+
+
+100 ml/h 100 ml/h
+15
+
+200
+
+10 180
+Precisión del límite superior (+5%)
+
+160 Flujo programado
+
+5 140
+120
+
+0 100
+80
+
+-5 60
+40
+
+-10 Precisión del límite inferior (-5%)
+20
+
+0
+-15 -20
+
+2 5 11 19 31 0 20 40 60 80 100 120
+
+Ventana de observación (minutos) Tiempo (segundos)
+
+Modo RAMPA Modo SECUENCIAL 
+140,0 120
+
+Flujo medido Flujo medido
+Flujo programado Flujo programado
+
+120,0 100
+
+100,0
+80
+
+80,0
+60
+
+60,0
+
+40
+40,0
+
+20
+20,0
+
+0
+0,0 0 500 1000 1500 2000 2500 3000 3500 4000
+
+0 500 1000 1500 2000 2500 3000
+Tiempo (minutos)
+
+Tiempo (segundos)
+
+Rampa ascendente: 15', rampa descendente: 15', 40 ml/h para 10 ml, 100 ml/h para 30 ml, 5 ml/h para 
+flujo estabilizado: 115 ml/h, volumen total: 70 ml. 1,5 ml y 40 ml/h para 6 ml 
+
+Flujo (ml/h) % de varianza del flujo nominal
+
+Flujo (ml/h) Flujo (ml/h)
+64 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Los siguientes consejos son válidos para bombas utilizadas fuera del MRI Guard Agilia.
+Para usarlas en el Entorno MRI con el MRI Guard Agilia, véanse las instrucciones de uso del MRI Guard Agilia.
+
+Emisiones electromagnéticas - Tabla 201
+La bomba Volumat MC Agilia está diseñada para su uso en entornos electromagnéticos descritos a 
+continuación. El usuario de la bomba Volumat MC Agilia deberá asegurarse que está siendo utilizada en estos 
+entornos.
+
+Conformidad 
+Prueba de Emisiones obtenida por el Consejos - Entornos electromagnéticos
+
+dispositivo
+Emisiones RF La bomba Volumat MC Agilia utiliza energía RF sólo para su funcionamiento interno. Por tanto, sus 
+CISPR 11 Grupo 1 emisiones de RF son muy bajas y no son susceptibles de provocar ninguna interferencia en 
+
+equipos electrónicos cercanos.
+Emisiones RF La bomba Volumat MC Agilia está diseñada para su uso en todos los establecimientos, incluidos 
+
+Clase B
+CISPR 11 domésticos y hospitalarios y aquellos conectados a las líneas públicas de bajo voltaje de 
+
+suministros de potencia de uso doméstico.
+Emisiones armónicas 
+
+Clase A
+IEC 61000-3-2
+Fluctuaciones de voltaje 
+Emisiones de parpadeos No aplicable
+IEC 61000-3-3
+12. Consejos y declaración del 
+fabricante sobre EMC
+3481-4_nu_volumat_MC_agilia_ES 65
+
+
+
+Inmunidad electromagnética - Tabla 202
+La bomba Volumat MC Agilia está diseñada para su uso en entornos electromagnéticos descritos a 
+continuación. El usuario de la bomba Volumat MC Agilia deberá asegurarse que está siendo utilizada en estos 
+entornos.
+
+Nivel de prueba  Nivel de 
+IEC 60601-1-2 conformidad 
+
+Prueba de inmunidad Consejos - Entornos electromagnéticos
+obtenido por el 
+
+IEC 60601-2-24 dispositivo 
+Descargas ±8 kV contacto ±8 kV contacto Revestimientos del suelo excepto de madera, enlosados y 
+electroestáticas (ESD) ±15 kV aire ±15 kV aire hormigón, con un nivel de humedad relativa, por lo menos, del 30% 
+IEC 61000-4-2 permiten garantizar el nivel necesario de conformidad. Si no es 
+
+posible garantizar este entorno, se deberán tomar precauciones 
+adicionales como: uso de material antiestático, descarga preliminar 
+del usuario y uso de ropa antiestática.
+
+Transitorios Eléctricos ±2 kV para líneas de ±2 kV para líneas de La calidad de la potencia de entrada deberá ser como una línea 
+rápidos alimentación alimentación típica doméstica, comercial o de entorno hospitalario. 
+Transitorios / Impulsos ±1 kV ±1 kV 
+IEC 61000-4-4 para líneas entrada/ para líneas entrada/
+
+salida salida
+Sobretensión ±1 kV modo ±1 kV modo La calidad de la potencia de entrada deberá ser como una línea 
+IEC 61000-4-5 diferencial diferencial típica doméstica, comercial o de entorno hospitalario.
+
+ ± 2 kV modo común  ± 2 kV modo común
+Nivel de voltaje, bajo, < 5% Ut < 5% Ut La calidad de la potencia de entrada deberá ser como una línea 
+interrupciones y (> 95% caída en Ut) (> 95% caída en Ut) típica doméstica, comercial o de entorno hospitalario.
+variaciones de voltaje en para 0,5 ciclo para 0,5 ciclo
+las líneas de e
+
+40% Ut 40% Ut Para interrupciones cortas y largas (< que la vida de batería) de la 
+IEC 61000-4-11 (60% caída en Ut) (60% caída en Ut) potencia de entrada, la batería interna proporciona la continuidad 
+
+parar 5 ciclo para 0,5 ciclo del servicio.
+
+70% Ut 70% Ut
+(30% caída en Ut) (30% caída en Ut) Para una interrupción prolongada (> que la vida de batería) de la 
+
+parar 25 ciclo para 25 ciclos potencia de entrada, la bomba Volumat MC Agilia deberá conectarse 
+desde una alimentación externa ininterrumpible (UPS).
+
+< 5% Ut < 5% Ut
+(> 95% caída en Ut) (> 95% caída en Ut) Nota: Ut es el voltaje principal de c/a. antes de la aplicación del nivel 
+
+para 5 s parar 5 s de prueba.
+Frecuencia de 400 A / m 400 A / m Si es necesario, la intensidad del campo magnético deberá ser 
+alimentación medida en cada instalación para asegurarse que es menor del nivel 
+(50/60 Hz) permitido por normativa.
+Campo magnético Si el nivel del campo magnético obtenido en la ubicación donde está 
+IEC 61000-4-8 siendo utilizada la bomba Volumat MC Agilia excede al valor 
+
+aplicable de conformidad la bomba deberá observarse para verificar 
+su normal funcionamiento. Si se observan comportamientos 
+anormales, pueden ser necesarias medidas adicionales, como 
+reorientar o recolocar la bomba Volumat MC Agilia o instalar 
+blindajes magnéticos.
+66 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Inmunidad electromagnética - Tabla 204
+La bomba Volumat MC Agilia ha sido diseñada para su uso en entornos electromagnéticos descritos a continuación. El usuario
+de la bomba Volumat MC Agilia deberá asegurarse de que está siendo utilizada en estos entornos.
+
+Nivel de prueba Nivel de conformidad 
+Prueba de 
+
+IEC 60601-1-2 obtenido por el Entorno electromagnético - Guía
+inmunidad
+
+IEC 60601-2-24 dispositivo
+RF conducida 10 Vrms 10 Vrms No deberán utilizarse equipos de comunicaciones de RF portátiles 
+IEC 61000-4-6 De 150 kHz a 80 MHz o móviles a una distancia menor de ninguno de los componentes 
+RF radiada 10 V/m 10 V/m de la bomba Volumat MC Agilia -incluidos los cables- que el 
+IEC 61000-4-3 De 80 MHz a 2,5 GHz intervalo de separación recomendado calculado a partir de la 
+
+ecuación aplicable a la frecuencia del transmisor.
+Distancia de separación recomendada:
+D = 0,35  P, para frecuencias de 150 kHz a 80 MHz
+D = 0,35  P, para frecuencias de 80 MHz a 800 MHz
+D = 0,7  P, para frecuencias de 800 MHz a 2,5 GHz
+Donde P es la potencia máxima de salida del transmisor en vatios 
+(W) de acuerdo con el fabricante del transmisor y D es la distancia 
+de separación recomendada en metros (m).
+Las intensidades de campo procedentes de transmisores 
+de RF fijos, determinadas mediante un estudio 
+electromagnético del lugar (a), deberán ser inferiores a los 
+niveles de conformidad (b).
+Pueden producirse interferencias en las proximidades de 
+los equipos marcados con el símbolo de la derecha:
+
+Note 1 : A 80 MHz y 800 MHz, se aplica la gama de frecuencias más alta.
+Note 2 : Estas indicaciones pueden no ser aplicables en todas las situaciones. La propagación electromagnética varía debido 
+
+a la absorción y la reflexión de estructuras, objetos y personas.
+
+(a) Las intensidades de campo procedentes de transmisores fijos, tales como emisoras de radio, teléfonos (móviles e
+inalámbricos), radios móviles terrestres, emisoras de radioaficionados, emisoras de radio AM y FM y emisoras de
+TV no pueden predecirse teóricamente con precisión. Para conocer el entorno electromagnético producido por
+transmisores de RF fijos, deberá tenerse en cuenta la posibilidad de realizar un análisis electromagnético del lugar.
+Si la intensidad de campo medida en la ubicación donde se usa la bomba Volumat MC Agilia supera el nivel de
+conformidad de RF indicado arriba, la bomba Volumat MC Agilia deberá someterse a un examen para verificar si
+funciona correctamente. Si se observa un funcionamiento anormal, puede que sea necesario adoptar medidas
+adicionales, como reorientar o reubicar la bomba Volumat MC Agilia o instalar blindajes magnéticos.
+
+(b) En la gama de frecuencias de 150 kHz a 80 MHz, las intensidades de campo deberían ser menores de 10 V/m.
+3481-4_nu_volumat_MC_agilia_ES 67
+
+
+
+Distancias de separación recomendadas entre equipos de 
+comunicación RF portátiles o móviles y la bomba Volumat MC Agilia 
+- Tabla 206
+La bomba Volumat MC Agilia ha sido diseñada para su uso en entornos electromagnéticos en los que las interferencias de RF
+radiadas estén controladas. El usuario de la bomba Volumat MC Agilia puede contribuir a evitar las interferencias
+electromagnéticas manteniendo una distancia mayor a la mínima entre equipos de comunicaciones de RF (transmisores)
+portátiles o móviles y la bomba Volumat MC Agilia como se recomienda a continuación, en consonancia con la máxima potencia
+de salida del equipo de comunicaciones.
+
+Potencia máxima de salida Distancia de separación en función de la frecuencia del transmisor en metros (m)
+del transmisor
+
+De 150 kHz a 80 MHz De 80 MHz a 800 MHz De 800 MHz a 2,5 GHz
+(W)
+
+d = 0,35  P d = 0,35  P d = 0,7  P
+
+0,01 0,04 0,04 0,07
+
+0,1 0,11 0,11 0,22
+
+1 0,3 0,3 0,7
+
+10 1,1 1,1 2,2
+
+100 3,5 3,5 7
+
+Para transmisores cuya potencia máxima de salida no se encuentre en la lista anterior, la distancia d de separación
+recomendada en metros (m) puede calcularse utilizando la ecuación aplicable a la frecuencia del transmisor, donde P es la
+potencia máxima de salida en vatios (W) según el fabricante del transmisor.
+
+Note 1 : A 80 MHz y 800 MHz, se aplica la distancia de separación para la gama de frecuencias más alta.
+Note 2 : Estas indicaciones pueden no ser aplicables en todas las situaciones. La propagación electromagnética varía debido 
+
+a la absorción y la reflexión de estructuras, objetos y personas.
+
+El uso de accesorios y cables, otros distintos a los especificados, puede provocar un aumento de las emisiones o una 
+disminución de la inmunidad del dispositivo.
+El dispositivo no debería usarse junto a otro equipo y si este uso adyacente es necesario, el dispositivo deberá 
+observarse para verificar que funciona correctamente en la configuración en la que será utilizado (bomba con un cable 
+de alimentación eléctrica, un cable RS232).
+68 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Limpieza y desinfección
+ La bomba Volumat MC Agilia forma parte del entorno cercano al paciente. Se aconseja limpiar y desinfectar
+con frecuencia las superficies externas del aparato y, especialmente, antes de conectar a un nuevo paciente y
+antes de cualquier operación de mantenimiento para proteger al paciente y al personal del centro.
+
+1. Prepare la solución de detergente-desinfectante.
+2. Desconecte el aparato de la fuente de alimentación.
+3. Humedezca un paño desechable con la solución de detergente-desinfectante, con cuidado de escurrir el 
+
+paño. Repita cada fase del proceso de limpieza.
+4. Empiece limpiando la parte inferior del aparato. Luego, con cuidado, déle la vuelta al aparato sin tocar las 
+
+partes móviles. Ponga boca abajo el aparato en una superficie limpia.
+5. Continúe limpiando las partes del aparato sin mojar los enchufes.
+6. Limpie el teclado.
+7. Termine con la limpieza de las superficies más expuestas, las zonas más críticas y el cable de red eléctrica.
+8. No aclare, deje secar.
+9. Proteja y mantenga el aparato limpio antes de volverlo a utilizar.
+
+10. Valide el protocolo de mantenimiento con una simple verificación bacteriológica.
+ No introduzca el dispositivo en un AUTOCLAVE, ni lo SUMERJA. Evite la entrada de líquidos en la carcasa
+del dispositivo.
+ NO UTILICE PRODUCTOS QUE CONTENGAN: TRICLOROETILENO, DICLORO DE ETILENO,
+AMONIACO, CLORURO DE AMONIACO, HIDROCARBUROS CLORADOS Y AROMÁTICOS, DICLORURO
+DE ETILENO, CLORURO DE METILENO ni CETONAS. Estos agentes agresivos podrían dañar las partes
+plásticas y provocar un mal funcionamiento del aparato.
+ Tenga cuidado también con los PULVERIZADORES QUE CONTENGAN ALCOHOL (20% - 40% de
+alcohol). Causan la pérdida de brillo y el agrietamiento del plástico y no proporcionan la acción limpiadora
+necesaria antes de cualquier desinfección. Se pueden utilizar desinfectantes en PULVERIZADOR desde una
+distancia de 30 cm con respecto al dispositivo, evitando la acumulación del producto en forma líquida, de
+acuerdo con las recomendaciones del fabricante.
+ Para más información, póngase en contacto con el departamento competente de su centro, responsable de
+los productos de limpieza y desinfección.
+
+Almacenamiento
+El almacenamiento del aparato debe ser un lugar seco y templado. En caso de almacenamiento prolongado,
+se recomienda desconectar la batería. Dicha operación será realizada por un técnico cualificado que pueda
+acceder a la batería a través de la puerta situada en la parte inferior del dispositivo. 
+ Condiciones de almacenaje y transporte  Condiciones de uso
+Temperatura: -10 °C a +60 °C. Temperatura: 5 °C a 40 °C.
+Presión atmosférica: 500 hPa a 1060 hPa. Presión atmosférica: 700 hPa a 1.060 hPa.
+Humedad: 10% a 90%, sin condensación. Humedad: 20% a 90%, sin condensación.
+13. Limpieza, desinfección y 
+condiciones de uso
+3481-4_nu_volumat_MC_agilia_ES 69
+
+
+
+Uso de la batería interna
+Este dispositivo está equipado con una batería de iones de litio. Cuando el dispositivo se desconecta de la red,
+pasa automáticamente al modo batería. 
+Antes de usarlo por primera vez, cargue la batería durante aproximadamente 5 horas conectando el cable de
+red eléctrica, pero sin usar el dispositivo. 
+Si es posible y si no va a usar el dispositivo por un largo periodo de tiempo (más de 2 meses), retire la batería
+del dispositivo y guárdela en un lugar de acuerdo a las condiciones recomendadas; si no es posible retirar la
+batería o se va a usar en un periodo corto de tiempo (menos de 2 meses), se recomienda cargar la batería al
+menos una vez al mes con el dispositivo apagado y conectado a la red durante un mínimo de 8 horas.
+Puede recargar la batería de iones de litio cuando lo considere conveniente, sin necesidad de respetar el ciclo
+completo de carga y descarga total necesario para disponer de toda la capacidad. 
+Para maximizar el tiempo de vida útil y las prestaciones de la batería:
+- Utilícela y almacénela en un sitio fresco.
+- En uso y siempre que sea posible, deje el dispositivo conectado a la red eléctrica para mantener la máxima
+carga de la batería.
+
+Es una batería recargable de iones de litio, asi que manéjela con cuidado.
+- No la queme ni la coloque cerca de una llama.
+- No tire, golpee, pinche, modifique ni desmonte la batería.
+- No use la batería si está profundamente rayada o deformada.
+- No cortocircuite los terminales.
+- No la exponga a altas temperaturas.
+- No reemplace la batería por otra distinta a la especificada por el fabricante.
+- No la cargue ni la descargue fuera del dispositivo.
+70 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Recomendaciones
+ Fresenius Kabi no se hace responsable de ningún daño ni reclamación médica ni de ninguna otra índole,
+de cualquier naturaleza, ya sea directo o indirecto, causado por el uso incorrecto de este dispositivo.
+ Para garantizar que todas las opciones de seguridad del dispositivo están activadas, es necesario encender
+la bomba antes de conectarla al paciente.
+ Debe prestársele especial atención a la estabilidad de la bomba. Utilice el aparato en posición horizontal,
+sobre una mesa o con el clamp de fijación si se usa en un soporte IV.
+ Fresenius Kabi recomienda no colocar la bomba a más de 1,3 metros por encima del paciente.
+ El contenedor debe colocarse por encima de la bomba en un rango de 50 cm  30 cm.
+ Recomendaciones para mejorar el funcionamiento y la seguridad cuando la bomba se usa habitualmente
+con flujos bajos ( 20 ml/h): limite el rango de flujos disponibles de acuerdo con el flujo máximo utilizado según
+su protocolo (consulte el menú de configuración); dado que el tiempo para detectar una oclusión en la parte
+inferior es inversamente proporcional al flujo, es recomendable bajar el límite de presión para detectar antes
+una oclusión. Para infundir drogas de vida media muy corta a un flujo inferior a 5 ml/h, es recomendable el uso
+de bombas de jeringa que ofrezcan un mejor rendimiento en el caso de flujos instantáneos. Compruebe las
+curvas de flujo instantáneo y de trompeta.
+ La bomba sólo debe conectarse a la red eléctrica con el cable de suministrado por el fabricante. Compruebe
+que la tensión de la red eléctrica se corresponde con el valor indicado en la etiqueta que hay en la parte inferior
+del dispositivo. No supere el voltaje permitido en ninguna de las diferentes conexiones externas.
+ La bomba deberá usarse sólo con los accesorios que aparecen enumerados en la página 74.
+ Una presión excesivamente baja en la línea puede crear flujo libre.
+ Utilice exclusivamente conexiones Luer-Lock para evitar la desconexión por problemas relacionados con la
+presión de la infusión.
+ No utilice el dispositivo conjuntamente con aparatos de infusión de presión positiva que puedan generar
+presiones de retorno superiores a 2.000 HPa porque podrían dañarse los desechables y el aparato de infusión.
+ Durante el uso sin sensor de gotas, el volumen adecuado a infundir debe ser menor o igual al volumen que
+contiene la bolsa, la botella o la bureta. El ajuste correcto del volumen a infundir contribuye a la reducción del
+riesgo de inyección por aire.
+3481-4_nu_volumat_MC_agilia_ES 71
+
+
+
+Recomendaciones especiales relacionadas con el uso de las líneas
+Volumat
+ Durante la manipulación de la bomba o de la línea (instalación de la línea, apertura de la puerta, extracción
+de la línea), cierre el clamp de rodillo y asegúrese de que la línea está cerrada con una pinza o una llave de tres
+vías en un punto cercano al dispositivo de inyección. Si no cuenta con estos elementos, le recomendamos que
+instale una válvula de no retorno en el dispositivo de inyección para evitar cualquier variación posible de presión
+causada por la línea.
+ Utilice sólo los elementos desechables propuestos en este Manual según los procedimientos habituales de
+su centro y la correcta práctica médica. La utilización de elementos desechables no recomendados puede
+causar graves daños tales como flujo libre o deterioro de la bomba. Después de haber purgado los elementos
+desechables, compruebe la integridad de las conexiones al paciente (no hay pérdidas ni aire, especialmente
+después del sensor de burbujas de aire).
+ Fresenius Kabi recomienda el uso de válvulas antirretorno o dispositivos de infusión de presión positiva
+para infusiones multilínea.
+
+ Si no hay una válvula antirretorno en una línea de infusión por gravedad durante una infusión multilínea, no 
+se podrán detectar oclusiones en el lado del paciente y este hecho puede causar una acumulación de droga 
+infundida en la línea de infusión por gravedad, que posteriormente podría infundirse de forma descontrolada 
+cuando se libere la oclusión.
+ Coloque la conexión entre la línea de infusión por gravedad y la línea de bombeo de la bomba, tan cerca de
+la entrada de la línea como sea posible, para minimizar el espacio muerto y, por consiguiente, el impacto de
+cualquier cambio en el flujo de la línea de infusión por gravedad.
+ El tamaño del filtro y los materiales usados en la línea de infusión se mencionan en cada embalaje individual:
+verifique que son aptos para que se administre el líquido o el fármaco.
+ La línea de infusión puede estar equipada con puertos (acceso K-nect sin aguja o llave de tres vías). Estos
+puertos deberían tener acceso respetando los procedimiento asépticos y la bomba debería estar parada.
+ Los puertos superiores (encima de la bomba) no deben usarse para administrar un bolus manual en la línea.
+Deberán usarse sólo para conectar una línea de infusión secundaria.
+ Los puertos inferiores (debajo de la bomba) no deben usarse para conectar una línea secundaria.
+ Los puertos inferiores (debajo de la bomba) pueden usarse para administrar un bolus manual mediante una
+jeringa Luer-Lock en la línea: cuando se administre un bolus, se recomienda detener la infusión.
+72 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Condiciones de la garantía
+Fresenius Kabi garantiza este producto contra cualquier defecto en los materiales y su fabricación
+(a excepción de baterías y accesorios) durante el periodo definido por las condiciones de venta acordadas.
+Para beneficiarse de la garantía de materiales y mano de obra ofrecida por el servicio de posventa o del agente
+autorizado por Fresenius Kabi, deberán respetarse las siguientes condiciones:
+ El dispositivo debe haber sido utilizado según las instrucciones contenidas en este manual.
+ El dispositivo no debe haber sufrido deterioros debido a un almacenaje, mantenimiento o manipulación
+incorrectos.
+ El dispositivo no debe haber sido modificado ni reparado por personal no cualificado.
+ La batería interna del dispositivo no deberá haber sido reemplazada por otra distinta a la especificada por el
+fabricante.
+ El número de serie (ID/N°) del dispositivo no deberá haber sido alterado, cambiado ni borrado.
+ En caso de incumplimiento de estas condiciones, Fresenius Kabi elaborará un presupuesto de reparación
+que incluirá piezas y mano de obra.
+ Para cualquier devolución o reparación del dispositivo, póngase en contacto con el departamento de
+Atención al cliente o el servicio posventa de Fresenius Kabi.
+
+Control de calidad
+A solicitud del centro médico, es posible realizar un control de funcionamiento del dispositivo cada doce meses.
+Un control regular (no incluido en la garantía) consiste en diversas inspecciones que aparecen enumeradas en
+el manual técnico. Estas inspecciones deberán ser realizadas por técnicos con experiencia y no están cubiertas
+en ningún contrato ni acuerdo por parte de Fresenius Kabi.
+
+Mantenimiento preventivo
+Para asegurar el correcto funcionamiento del dispositivo, se recomienda efectuar un mantenimiento preventivo
+cada tres años. Este mantenimiento preventivo incluye la sustitución de la batería y de la membrana de
+bombeo. Estas acciones deberán ser ejecutadas por un técnico cualificado con la ayuda del manual técnico.
+Si el dispositivo se cae o no funciona correctamente, debe informar al técnico cualificado de su centro o a
+nuestro Servicio de Asistencia Postventa. En cualquiera de estos casos, el dispositivo no debe utilizarse.
+En caso de sustitución de componentes, utilice exclusivamente piezas de repuesto de Fresenius Kabi. 
+ATENCIÓN: Si se incumplen estos procedimientos de mantenimiento podrían producirse daños en el aparato 
+y causar un funcionamiento incorrecto del mismo. Las inspecciones internas del dispositivo exigen el respeto 
+de procedimientos específicos para prevenir daños a la bomba o al usuario.
+
+Servicio
+Para obtener más información sobre las revisiones del dispositivo, póngase en contacto con nuestro Servicio 
+de Asistencia Postventa o nuestro servicio de atención al cliente.
+Si necesita enviar el dispositivo a nuestro servicio de asistencia posventa, es imprescindible limpiarlo, 
+desinfectarlo y embalarlo con cuidado, si es posible en su embalaje original, antes de enviarlo.
+Fresenius Kabi no se hace responsable de la pérdida ni de los daños del aparato durante el transporte a 
+nuestro Servicio de Asistencia Postventa.
+
+ Reciclado de baterías obsoletas y dispositivos:
+Antes de eliminarla, quite la batería del dispositivo. Las baterías y los dispositivos con esta 
+etiqueta no se deben tirar con los residuos generales. Se deben recoger separadamente y tirar 
+de acuerdo con las normas locales. Para más información relacionada con la norma sobre el 
+proceso de residuos, póngase en contacto con su Fresenius Kabi local.
+14. Servicios
+3481-4_nu_volumat_MC_agilia_ES 73
+
+
+
+Bastidores de datos, accesorios y herramientas de mantenimiento
+La bomba Volumat MC Agilia es compatible con la gama de accesorios Agilia.
+Si desea más detalles sobre el funcionamiento de estos accesorios o cualquier otra información, póngase en 
+contacto con nuestro departamento comercial.
+Agilia Duo Accesorio de dos canales para centralizar la fuente de Z073495
+
+alimentación
+Cable Agilia Duo en "Y" Cable de dos canales para centralizar la corriente CC/CC Z073497 
+
+Convertidor CC-CC Cable para transporte (ambulancias) Z073494
+Agilia
+Nurse call Agilia Cable de llamada a enfermera (4.000 V aislado) Z073496
+
+Agilia Link 4 Bastidor de cuatro ranuras para centralización de corriente
+
+Agilia Link 6 Bastidor de seis ranuras para centralización de corriente
+
+Agilia Link 8 Bastidor de ocho ranuras para centralización de corriente
+
+Agila Link 4 + Bastidor de cuatro ranuras para centralización de corriente y 
+prestaciones de comunicaciones
+
+Agila Link 6 + Bastidor de seis ranuras para centralización de corriente y 
+prestaciones de comunicaciones
+
+Agila Link 8 + Bastidor de ocho ranuras para centralización de corriente y 
+prestaciones de comunicaciones
+
+MRI Guard Agilia Dispositivo portátil que puede alojar hasta 4 bombas Agilia en el 
+Entorno MRI
+
+Sensor de gotas Fijado a la cámara de goteo para uso en modo Sólo flujo y para Z073200
+detección de botella vacía.
+
+Soporte IV con ruedas Puede soportar y fijar 1 o 2 bombas Agilia Z073100
+para bomba de 
+infusión.
+Soporte móvil Puede soportar y fijar hasta 6 bombas Agilia montadas Z073110
+Orchestra® individualmente o en Link 4 Agilia o Link 6 Agilia
+
+Desechables
+Esta lista de líneas es una indicación de los códigos de los productos más actuales. Para conocer la lista exacta 
+del código de su producto, póngase en contacto con nuestro Departamento de Ventas o consulte el catálogo 
+de Líneas Volumat.
+VL ST00 Línea de infusión estándar, filtro de 15 µm  M46441000
+VL ST10 Línea de infusión estándar, filtro de 15 µm, conexión Luer-Lock  M46441300
+
+giratoria, tapón de parada de flujo
+VL ST01 Línea de infusión estándar, filtro de 15 µm, punto de inyección M46441600
+VL ST02 Línea de infusión estándar, filtro de 15 µm, 1 acceso K-Nect sin M46441900
+
+aguja
+VL ST22 Línea de infusión estándar, filtro de 15 µm, 2 accesos K-Nect sin M46442500
+
+aguja
+74 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+VL ST42 Línea de infusión estándar, filtro de 15 µm, 2 accesos K-Nect sin M46442600
+aguja, 1 válvula de retención de un solo sentido
+
+VL TR00 Línea para transfusión, filtro de 200 µm M46442800
+VL TR12 Línea de transfusión ventilada, filtro de 200 µm, 1 acceso K-Nect sin M46442700
+
+aguja
+VL TR22 Línea primaria para transfusión e infusión, filtro de 200 µm, M46443000
+
+2 accesos K-Nect sin aguja
+VL TR42 Línea primaria de transfusión e infusión ventilada, filtro de 200 µm, M46442900
+
+2 accesos K-Nect sin aguja, 1 válvula de retención de un solo 
+sentido
+
+VL TR43 Línea ventilada para transfusión e infusión, filtro de 200 µm, M46444500
+2 accesos K-Nect sin aguja
+
+VL SP22 Línea de transfusión o infusión doble, filtro de 200 µm, M46443100
+1 acceso K-Nect sin aguja
+
+VL SP62 Línea de infusión de drogas sin PVC incompatibles con PVC, filtro M46443400
+de 15 µm, 1 acceso K-Nect sin aguja
+
+VL SP90 Línea de infusión de drogas sin PVC incompatibles con PVC, M46443500
+opaca, filtro de 15 μm
+
+VL SP92 Línea de infusión de drogas sin PVC incompatibles con PVC, M46443600
+opaca, filtro de 15 µm, 1 acceso K-Nect sin aguja
+
+VL PN20 Línea de nutrición parenteral, filtro de 15 µm, conexión superior M46443700
+Luer-Lock
+
+VL PN00 Línea de nutrición parenteral, filtro de eliminación de aire de 1,2 µm M46444300
+VL PN00 FX Línea de nutrición parenteral para bolsas Freeflex®, filtro de M46442300
+
+eliminación de aire de 1,2 µm
+VL PN02 Línea de nutrición parenteral, filtro de eliminación de aire de 1,2 µm, M46444400 
+
+1 acceso K-Nect sin aguja
+VL PN02 FX Línea de nutrición parenteral para bolsas Freeflex®, filtro de M46442400
+
+eliminación de aire de 1,2 µm, 1 acceso K-Nect sin aguja
+VL ON10 Línea de infusión de drogas para oncología en sistema cerrado, M46445500
+
+1 línea auxiliar, filtro de 15 µm
+VL ON11 Línea para multiinfusión oncológica de drogas en sistema cerrado, M46443900
+
+4 accesos K-Nect sin aguja, filtro de 15 µm
+VL ON12 Línea para multiinfusión oncológica de drogas incompatibles con M46444800
+
+PVC en sistema cerrado, 1 accesos K-Nect sin aguja, filtro de 
+15 µm
+
+VL ON12 FX Línea oncológica para bolsas Freeflex® para multiinfusión de drogas M46444850
+en sistema cerrado, 2 accesos K-Nect sin aguja, filtro de 15 μm
+
+VL ON20 Línea para multiinfusión oncológica de drogas en sistema cerrado, M46445700
+2 líneas auxiliares, filtro de 15 µm
+
+VL ON21 Línea para multiinfusión oncológica de drogas incompatibles con M46444200
+PVC en sistema cerrado, 2 accesos K-Nect sin aguja, filtro de 
+15 µm
+3481-4_nu_volumat_MC_agilia_ES 75
+
+
+
+VL ON22 Línea para multiinfusión oncológica de drogas incompatibles con M46444200
+PVC en sistema cerrado, 2 accesos K-Nect sin aguja, filtro de 
+15 µm
+
+VL ON22 OP Línea para multiinfusión oncológica de drogas sensibles a la luz M46446000
+incompatibles con PVC en sistema cerrado, 2 accesos K-Nect sin 
+aguja, filtro de 15 µm
+
+VL ON22 FX Línea oncológica para bolsas Freeflex® para multiinfusión de drogas M46444250
+en sistema cerrado, 3 accesos K-Nect sin aguja, filtro de 15 μm
+
+VL ON30 Línea para multiinfusión oncológica de drogas en sistema cerrado, M46445900
+3 líneas auxiliares, filtro de 15 µm
+
+VL ON40 Línea para multiinfusión oncológica de drogas en sistema cerrado, M46445100
+3 líneas auxiliares, 2 punzones, filtro de 15 µm
+
+VL ON42 Línea para multiinfusión oncológica de drogas en sistema cerrado, M46444000
+4 accesos K-Nect sin aguja, filtro de 15 µm
+
+VL ON42 OP Línea para multiinfusión oncológica de drogas sensibles a la luz en M46445800
+sistema cerrado, opaca, 4 accesos K-Nect sin aguja, filtro de 15 µm
+
+VL ON42 FX Línea oncológica para bolsas Freeflex® para multiinfusión de drogas M46444050
+en sistema cerrado, 5 accesos K-Nect sin aguja, filtro de 15 μm
+
+VL ON70 Línea de infusión oncológica de drogas, filtro de 0,2 μm M46444600
+VL ON72 Línea de infusión oncológica de drogas, filtro de 0,2 µm, 1 acceso M46444100
+
+K-Nect sin aguja
+VL ON90 Línea de infusión de drogas sensibles a la luz sin PVC, opaca, filtro M46444900
+
+de 15 μm
+VL ON90 FX Línea sin PVC para bolsas Freeflex® para infusión de drogas M46444960
+
+sensibles a la luz, opaca, 2 accesos K-Nect sin aguja, filtro de 
+15 μm
+
+VL PA02 Línea de infusión pediàtrica 60 gotas/ml, filtro de 15 μm, 1 acceso M46442200
+K-Nect sin aguja, tubo de microdiámetro
+
+VL PA92 Línea de infusión con bureta graduada de 150 ml, 20 gotas/ml, M46445200
+2 accesos K-Nect sin aguja, filtro de 15 μm
+
+VL PA93 Línea de infusión con bureta graduada de 150 ml, 20 gotas/ml, M46443800
+2 accesos K-Nect sin aguja, filtro de 15 μm
+
+VL PA94 Línea de infusión con bureta graduada de 150 ml, 20 gotas/ml, M46445300
+2 accesos K-Nect sin aguja, filtro de 15 μm
+
+Secondary Line Línea secundaria, sin PVC M77460020
+Secondary Line, Filter Línea secundaria, sin PVC, filtro de eliminación de aire de 0,2 µm M77460025
+Secondary Line FX Línea secundaria para bolsas Freeflex®, sin PVC M77460021
+Secondary Line FX, Línea secundaria para bolsas Freeflex®, sin PVC, filtro de M77460026
+Filter eliminación de aire de 0,2 μm
+76 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Dirección de datos
+
+Cable RS 232 Cable de comunicación para conexión RS 232 073493
+para Agilia (4.000 V aislado)
+Cable USB para Agilia Cable de comunicación para conexión USB 073491
+
+(4.000 V aislado)
+
+CD Mantenimiento y herramientas
+Partner Agilia CD de mantenimiento 067037
+3481-4_nu_volumat_MC_agilia_ES 77
+
+
+
+Este manual de Usuario puede contener inexactitudes o errores tipográficos. 
+Podrán, por tanto, efectuarse modificaciones que serán incluidas en ediciones posteriores. 
+Debido a la evolución en las normativas, leyes y equipos, las características mostradas y descritas en este documento pueden cambiar y sólo son 
+aplicables al dispositivo que se acompaña.
+Este manual de usuario no debe ser reproducido ni total ni parcialmente sin consentimiento de Fresenius Kabi. Vigilant® y Agilia® son marcas 
+registradas de Fresenius Kabi en algunos países seleccionados.
+
+Fecha de revisión: Febrero de 2013.
+
+Fresenius Vial S.A.S
+Le Grand Chemin
+38590 Brézins
+France
+www.fresenius-kabi.com
+Notas
+78 3481-4_nu_volumat_MC_agilia_ES
+
+
+
+Notas
+3481-4_nu_volumat_MC_agilia_ES 79
+
+
+
+3481-4_nu_volumat_MC_agilia_ES
